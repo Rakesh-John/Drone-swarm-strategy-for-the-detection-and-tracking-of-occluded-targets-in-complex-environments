@@ -1,0 +1,547 @@
+Waypoint 1 
+
+rect (257, 393, 25, 36) 
+
+previous_blob_personposition [0, 10] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [17.181433537293064, 26.202483056873653] 
+
+integralposition_centre [-0.7602028575178091, 0.30581173782537846] 
+
+integral_startposition [-17.08097089294276, -16.01495629759957] 
+
+currentblob_personposition [0.10046264435030494, 10.187526759274082] 
+
+dronemeanpos [5.958842609298556, -2.5770585419329537] 
+
+Scanning_direction 335.3469707161311 
+
+Distancetravelledbyperson 0.21274169397110507 
+
+Scanning_direction_Waypoint_Distance_c3 0.4823311579936288 
+Waypoint 2 
+
+rect (316, 374, 17, 35) 
+
+previous_blob_personposition [0.10046264435030494, 10.187526759274082] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [20.687848544903893, 24.959299554175267] 
+
+integralposition_centre [-3.0079195476481955, 1.395526192664663] 
+
+integral_startposition [-19.328687583073147, -14.925241842760288] 
+
+currentblob_personposition [1.3591609618307459, 10.03405771141498] 
+
+dronemeanpos [4.418772490287265, -1.989141201866031] 
+
+Scanning_direction 345.7226596994543 
+
+Distancetravelledbyperson 1.2680197960122201 
+
+Scanning_direction_Waypoint_Distance_c3 1.5630977235789971 
+Waypoint 3 
+
+rect (335, 369, 20, 38) 
+
+previous_blob_personposition [1.3591609618307459, 10.03405771141498] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [21.994785047740656, 24.736164053690942] 
+
+integralposition_centre [-3.1321401869441248, 1.5505190082656592] 
+
+integral_startposition [-19.452908222369075, -14.770249027159291] 
+
+currentblob_personposition [2.541876825371581, 9.96591502653165] 
+
+dronemeanpos [2.6325677699907337, -1.6979085373713818] 
+
+Scanning_direction 359.5545111235188 
+
+Distancetravelledbyperson 1.1846772722451682 
+
+Scanning_direction_Waypoint_Distance_c3 1.4439197996707054 
+Waypoint 4 
+
+rect (344, 363, 19, 38) 
+
+previous_blob_personposition [2.541876825371581, 9.96591502653165] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [22.536685548916875, 24.353646052860668] 
+
+integralposition_centre [-2.508928054117837, 1.8191079012640574] 
+
+integral_startposition [-18.82969608954279, -14.501660134160893] 
+
+currentblob_personposition [3.7069894593740855, 9.851985918699775] 
+
+dronemeanpos [1.9221608226725588, -1.0480559092516004] 
+
+Scanning_direction 9.299377167468833 
+
+Distancetravelledbyperson 1.170669591098881 
+
+Scanning_direction_Waypoint_Distance_c3 1.4589318591452247 
+Waypoint 5 
+
+rect (345, 327, 20, 34) 
+
+previous_blob_personposition [3.7069894593740855, 9.851985918699775] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [22.632315049124443, 21.93103204760228] 
+
+integralposition_centre [-1.6031373579817276, 3.9696432314455876] 
+
+integral_startposition [-17.923905393406677, -12.351124803979364] 
+
+currentblob_personposition [4.708409655717766, 9.579907243622916] 
+
+dronemeanpos [1.4129887207199912, -0.6229661345860993] 
+
+Scanning_direction 17.899911649498506 
+
+Distancetravelledbyperson 1.0377230917140634 
+
+Scanning_direction_Waypoint_Distance_c3 1.3085082657240716 
+Waypoint 6 
+
+rect (386, 287, 23, 33) 
+
+previous_blob_personposition [4.708409655717766, 9.579907243622916] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [25.34181755500554, 19.34903554199794] 
+
+integralposition_centre [-3.0831534168384227, 6.23724405872744] 
+
+integral_startposition [-19.403921452263376, -10.08352397669751] 
+
+currentblob_personposition [5.937896102742165, 9.265511565300429] 
+
+dronemeanpos [1.0395339337542695, 0.3687891431741024] 
+
+Scanning_direction 28.836324576058985 
+
+Distancetravelledbyperson 1.2690475034310331 
+
+Scanning_direction_Waypoint_Distance_c3 1.629521739035086 
+Waypoint 7 
+
+rect (394, 238, 27, 29) 
+
+previous_blob_personposition [5.937896102742165, 9.265511565300429] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [25.979347556389328, 16.097632534940626] 
+
+integralposition_centre [-2.331520218338055, 8.896000119074536] 
+
+integral_startposition [-18.652288253763007, -7.424767916350415] 
+
+currentblob_personposition [7.327059302626321, 8.67286461859021] 
+
+dronemeanpos [0.17383155302321232, 1.6704802442658846] 
+
+Scanning_direction 45.610525464090415 
+
+Distancetravelledbyperson 1.510299572719707 
+
+Scanning_direction_Waypoint_Distance_c3 1.800416865922832 
+Waypoint 8 
+
+rect (421, 187, 29, 25) 
+
+previous_blob_personposition [7.327059302626321, 8.67286461859021] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [27.76443156026393, 12.718723527606553] 
+
+integralposition_centre [-2.9983041919016356, 11.719509197180988] 
+
+integral_startposition [-19.319072227326586, -4.601258838243963] 
+
+currentblob_personposition [8.445359332937343, 8.11746468936259] 
+
+dronemeanpos [-0.1515703611766825, 3.5359964177491308] 
+
+Scanning_direction 61.94599290480835 
+
+Distancetravelledbyperson 1.248624859267058 
+
+Scanning_direction_Waypoint_Distance_c3 1.525373333963136 
+Waypoint 9 
+
+rect (276, 323, 29, 24) 
+
+previous_blob_personposition [8.445359332937343, 8.11746468936259] 
+
+coverage 33.5741513871599 
+
+new_leader_index 5 
+
+blobposition [19.04939644134756, 21.967462333395638] 
+
+integralposition_centre [6.729991405244565, 3.1254313010948387] 
+
+integral_startposition [-10.057084288335385, -13.661644392485112] 
+
+currentblob_personposition [8.992312153012175, 8.305817940910526] 
+
+dronemeanpos [-0.32437783833048056, 5.220889010118328] 
+
+Scanning_direction 71.67933464608433 
+
+Distancetravelledbyperson 0.5784758722336582 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 10 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 11 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 12 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 13 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 14 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 15 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 16 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 17 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 18 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 19 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 20 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 21 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 22 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 23 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 24 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 25 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 26 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 27 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 28 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 29 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 30 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 31 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 32 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 33 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 34 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 35 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 36 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 37 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 38 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 39 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 40 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 41 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 42 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 43 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 44 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 45 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 46 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 47 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 48 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 49 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 50 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 51 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 52 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 53 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 54 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
+Waypoint 55 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction_Waypoint_Distance_c3 0.8540993682182803 
