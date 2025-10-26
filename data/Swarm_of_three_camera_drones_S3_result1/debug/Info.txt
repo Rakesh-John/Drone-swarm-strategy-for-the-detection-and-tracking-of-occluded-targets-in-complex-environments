@@ -1,0 +1,425 @@
+WayPoint_Count 1 
+
+Leader Index 0 
+
+Leader Contour 79.5 
+
+Contour Threshold 85 
+
+Previous Drone Positions [ 0.933  0.    -0.933]_[-12. -12. -12.] 
+
+Mean Previous Drone Positions [0. 0. 0.]_[-12. -12. -12.] 
+
+relative Drone Positions [ 0.933 -0.    -0.933]_[-0.  0.  0.] 
+
+current starting Drone Positions [ 0.933  0.    -0.933]_[-12. -12. -12.] 
+
+scanning direction vector [0. 0. 0.]_[2. 2. 2.] 
+
+changing back speed 3.0 
+
+velocity vector [0. 0. 0.]_[2. 2. 2.] 
+
+Moving Straight [ 0.933  0.    -0.933]_[-10. -10. -10.] 
+
+drones next lat [48.33574612 48.33574604 48.33574597] drones next lon [14.32665777 14.32664518 14.3266326 ] 
+WayPoint_Count 2 
+
+Leader Index 1 
+
+Leader Contour 59.0 
+
+Contour Threshold 85 
+
+Previous Drone Positions [ 0.933  0.    -0.933]_[-10. -10. -10.] 
+
+Mean Previous Drone Positions [0. 0. 0.]_[-10. -10. -10.] 
+
+relative Drone Positions [ 0.933 -0.    -0.933]_[-0.  0.  0.] 
+
+current starting Drone Positions [ 0.933  0.    -0.933]_[-10. -10. -10.] 
+
+scanning direction vector [0. 0. 0.]_[2. 2. 2.] 
+
+changing back speed 3.0 
+
+velocity vector [0. 0. 0.]_[2. 2. 2.] 
+
+Moving Straight [ 0.933  0.    -0.933]_[-8. -8. -8.] 
+
+drones next lat [48.33576411 48.33576403 48.33576396] drones next lon [14.32665754 14.32664495 14.32663236] 
+WayPoint_Count 3 
+
+Leader Index 2 
+
+Leader Contour 64.5 
+
+Contour Threshold 85 
+
+Previous Drone Positions [ 0.933  0.    -0.933]_[-8. -8. -8.] 
+
+Mean Previous Drone Positions [0. 0. 0.]_[-8. -8. -8.] 
+
+relative Drone Positions [ 0.933 -0.    -0.933]_[-0.  0.  0.] 
+
+current starting Drone Positions [ 0.933  0.    -0.933]_[-8. -8. -8.] 
+
+scanning direction vector [0. 0. 0.]_[2. 2. 2.] 
+
+changing back speed 3.0 
+
+velocity vector [0. 0. 0.]_[2. 2. 2.] 
+
+Moving Straight [ 0.933  0.    -0.933]_[-6. -6. -6.] 
+
+drones next lat [48.3357821  48.33578203 48.33578195] drones next lon [14.3266573  14.32664471 14.32663212] 
+WayPoint_Count 4 
+
+Leader Index 1 
+
+Leader Contour 132.0 
+
+Contour Threshold 85 
+
+Converging Before Rutherford Scattering [ 0.28947726 -0.17018924 -0.44591508]_[-6.09733795 -6.14254691 -6.21777899] 
+
+Minimum Distance Within Rutherford Scattering 0.933 
+
+Converging After Rutherford Scattering [ 1.05588097 -0.16100229 -1.22150574]_[-6.10191099 -5.85602117 -6.4997317 ] 
+
+drones next lat [48.33578119 48.33578331 48.33577743] drones next lon [14.32665897 14.32664252 14.32662829] 
+WayPoint_Count 5 
+
+Leader Index 0 
+
+Leader Contour 112.5 
+
+Contour Threshold 85 
+
+Converging Before Rutherford Scattering [ 1.25449312  0.19960104 -0.97702889]_[-6.00272826 -6.15305102 -6.31344983] 
+
+Minimum Distance Within Rutherford Scattering 0.933 
+
+Converging After Rutherford Scattering [ 1.59213413  0.17144384 -1.2865127 ]_[-5.95465579 -6.15891201 -6.35566131] 
+
+drones next lat [48.33578256 48.33578061 48.33577872] drones next lon [14.32666619 14.32664704 14.32662739] 
+WayPoint_Count 6 
+
+Leader Index 1 
+
+Leader Contour 132.0 
+
+Contour Threshold 85 
+
+Converging Before Rutherford Scattering [ 1.34681736  0.07877619 -0.76306866]_[-5.91021107 -6.36064625 -6.09055676] 
+
+Minimum Distance Within Rutherford Scattering 0.933 
+
+Converging After Rutherford Scattering [ 1.60705049  0.18811432 -1.13263993]_[-5.82253021 -6.55321664 -5.98566723] 
+
+drones next lat [48.33578375 48.33577706 48.33578207] drones next lon [14.32666637 14.32664731 14.32662943] 
+WayPoint_Count 7 
+
+Leader Index 1 
+
+Leader Contour 136.5 
+
+Contour Threshold 85 
+
+Converging Before Rutherford Scattering [ 1.27665313  0.2794704  -0.77243971]_[-6.23827352 -6.75554821 -5.9441537 ] 
+
+Minimum Distance Within Rutherford Scattering 0.933 
+
+Converging After Rutherford Scattering [ 1.55882984  0.21967797 -0.99482398]_[-6.13066522 -6.99938589 -5.80792431] 
+
+drones next lat [48.33578097 48.33577305 48.33578368] drones next lon [14.32666576 14.32664779 14.32663127] 
+WayPoint_Count 8 
+
+Leader Index 0 
+
+Leader Contour 130.0 
+
+Contour Threshold 85 
+
+Converging Before Rutherford Scattering [ 1.52371067  0.81248325 -0.75769944]_[-5.91146065 -6.78503445 -5.95261323] 
+
+Minimum Distance Within Rutherford Scattering 0.933 
+
+Converging After Rutherford Scattering [ 1.73540914  0.77365483 -0.93056948]_[-5.72670186 -7.02841402 -5.89399246] 
+
+drones next lat [48.33578462 48.33577284 48.33578291] drones next lon [14.32666809 14.32665527 14.32663214] 
+WayPoint_Count 9 
+
+Leader Index 1 
+
+Leader Contour 115.5 
+
+Contour Threshold 85 
+
+Converging Before Rutherford Scattering [ 1.3344624   0.8106682  -0.75577419]_[-5.90920269 -6.80952133 -6.03355916] 
+
+Minimum Distance Within Rutherford Scattering 0.933 
+
+Converging After Rutherford Scattering [ 1.53764982  0.79365082 -0.94194423]_[-5.68305079 -7.08784202 -5.98139037] 
+
+drones next lat [48.335785   48.3357723  48.33578212] drones next lon [14.32666542 14.32665555 14.326632  ] 
+WayPoint_Count 10 
+
+Leader Index 1 
+
+Leader Contour 111.5 
+
+Contour Threshold 85 
+
+Converging Before Rutherford Scattering [ 1.10877638  0.64845597 -0.38527075]_[-6.05510846 -6.91990615 -6.34678525] 
+
+Minimum Distance Within Rutherford Scattering 0.933 
+
+Converging After Rutherford Scattering [ 1.34903477  0.70977243 -0.6868456 ]_[-5.79385605 -7.26493088 -6.26301293] 
+
+drones next lat [48.33578399 48.3357707  48.33577961] drones next lon [14.32666289 14.32665444 14.32663547] 
+WayPoint_Count 11 
+
+Leader Index 0 
+
+Leader Contour 63.5 
+
+Contour Threshold 85 
+
+Previous Drone Positions [ 1.34903477  0.70977243 -0.6868456 ]_[-5.79385605 -7.26493088 -6.26301293] 
+
+Mean Previous Drone Positions [0.45732053 0.45732053 0.45732053]_[-6.44059995 -6.44059995 -6.44059995] 
+
+relative Drone Positions [ 0.933 -0.    -0.933]_[-0.  0.  0.] 
+
+current starting Drone Positions [ 1.39032053  0.45732053 -0.47567947]_[-6.44059995 -6.44059995 -6.44059995] 
+
+scanning direction vector [0. 0. 0.]_[2. 2. 2.] 
+
+changing back speed 3.0 
+
+velocity vector [ 0.19111999 -0.87847909  2.29600324]_[-0.993906    4.8684969   0.06910147] 
+
+Moving Straight [ 1.54015477 -0.16870666  1.60915764]_[-6.78776205 -2.39643398 -6.19391146] 
+
+drones next lat [48.33577506 48.33581443 48.33578041] drones next lon [14.32666558 14.32664201 14.32666645] 
+WayPoint_Count 12 
+
+Leader Index 1 
+
+Leader Contour 135.0 
+
+Contour Threshold 85 
+
+Converging Before Rutherford Scattering [ 1.15983649 -0.33056019  1.19972476]_[-6.40850442 -2.24448848 -5.77268308] 
+
+Minimum Distance Within Rutherford Scattering 0.933 
+
+Converging After Rutherford Scattering [ 1.14040607 -0.35069618  1.23929117]_[-6.82089503 -2.19632681 -5.40845414] 
+
+drones next lat [48.33577473 48.33581622 48.33578745] drones next lon [14.32666019 14.32663953 14.32666136] 
+WayPoint_Count 13 
+
+Leader Index 0 
+
+Leader Contour 121.5 
+
+Contour Threshold 85 
+
+Converging Before Rutherford Scattering [ 1.34390918 -0.24915944  0.98909976]_[-6.73217928 -2.83817289 -5.88662455] 
+
+Minimum Distance Within Rutherford Scattering 0.933 
+
+Converging After Rutherford Scattering [ 1.46673576 -0.27390712  0.89102086]_[-7.02530395 -2.77734202 -5.65433075] 
+
+drones next lat [48.33577292 48.335811   48.33578521] drones next lon [14.32666462 14.32664063 14.32665669] 
+WayPoint_Count 14 
+
+Leader Index 1 
+
+Leader Contour 154.0 
+
+Contour Threshold 85 
+
+Converging Before Rutherford Scattering [ 1.38326703 -0.09058705  0.81570476]_[-6.81959023 -2.90255285 -5.04044122] 
+
+Minimum Distance Within Rutherford Scattering 0.933 
+
+Converging After Rutherford Scattering [ 1.42604349 -0.12971922  0.81206047]_[-6.95034463 -2.80817674 -5.00406293] 
+
+drones next lat [48.33577359 48.33581073 48.33579105] drones next lon [14.32666406 14.32664258 14.32665555] 
+WayPoint_Count 15 
+
+Leader Index 1 
+
+Leader Contour 129.0 
+
+Contour Threshold 85 
+
+Converging Before Rutherford Scattering [1.40246799 0.09176899 0.69305124]_[-6.35660136 -2.82324234 -4.81082991] 
+
+Minimum Distance Within Rutherford Scattering 0.933 
+
+Converging After Rutherford Scattering [1.4687422  0.05413912 0.6644069 ]_[-6.50507476 -2.70355842 -4.78204044] 
+
+drones next lat [48.3357776  48.33581169 48.33579304] drones next lon [14.32666459 14.32664505 14.32665353] 
+WayPoint_Count 16 
+
+Leader Index 1 
+
+Leader Contour 110.5 
+
+Contour Threshold 85 
+
+Converging Before Rutherford Scattering [ 1.13877477 -0.07152603  0.41971194]_[-6.22539353 -2.88656735 -4.54304568] 
+
+Minimum Distance Within Rutherford Scattering 0.933 
+
+Converging After Rutherford Scattering [ 1.1974429  -0.11944727  0.40896504]_[-6.36603847 -2.72996462 -4.55900347] 
+
+drones next lat [48.33577883 48.33581143 48.33579502] drones next lon [14.32666091 14.32664271 14.32665006] 
+WayPoint_Count 17 
+
+Leader Index 1 
+
+Leader Contour 86.0 
+
+Contour Threshold 85 
+
+Converging Before Rutherford Scattering [ 1.03453722 -0.32566334  0.48317164]_[-5.72688354 -2.81217735 -4.23394539] 
+
+Minimum Distance Within Rutherford Scattering 0.933 
+
+Converging After Rutherford Scattering [ 1.1023125  -0.41481192  0.50454494]_[-5.90429944 -2.65134102 -4.21736582] 
+
+drones next lat [48.33578297 48.33581212 48.3357981 ] drones next lon [14.32665957 14.32663872 14.32665131] 
+WayPoint_Count 18 
+
+Leader Index 1 
+
+Leader Contour 85.0 
+
+Contour Threshold 85 
+
+Converging Before Rutherford Scattering [ 0.77345222 -0.21948575  0.49428496]_[-5.33059614 -2.5458342  -3.89159898] 
+
+Minimum Distance Within Rutherford Scattering 0.933 
+
+Converging After Rutherford Scattering [ 0.81868906 -0.31337673  0.54293909]_[-5.54250659 -2.36060353 -3.86491919] 
+
+drones next lat [48.33578621 48.33581474 48.33580128] drones next lon [14.3266557  14.32664005 14.32665178] 
+WayPoint_Count 19 
+
+Leader Index 1 
+
+Leader Contour 121.5 
+
+Contour Threshold 85 
+
+Converging Before Rutherford Scattering [ 0.56376026 -0.4767013   0.10176905]_[-4.92918877 -2.21024036 -3.49362485] 
+
+Minimum Distance Within Rutherford Scattering 0.933 
+
+Converging After Rutherford Scattering [ 0.63036023 -0.56973066  0.12819844]_[-5.13173691 -2.00022141 -3.50109567] 
+
+drones next lat [48.33578989 48.33581796 48.33580452] drones next lon [14.32665311 14.32663655 14.32664614] 
+WayPoint_Count 20 
+
+Leader Index 1 
+
+Leader Contour 87.5 
+
+Contour Threshold 85 
+
+Converging Before Rutherford Scattering [ 0.42148424 -0.39458208 -0.13192992]_[-4.50084086 -2.13662879 -2.8888113 ] 
+
+Minimum Distance Within Rutherford Scattering 0.933 
+
+Converging After Rutherford Scattering [ 0.48919343 -0.5274088  -0.06681239]_[-4.69807111 -1.75597048 -3.07223936] 
+
+drones next lat [48.33579378 48.33582016 48.33580836] drones next lon [14.32665116 14.32663709 14.32664346] 
+WayPoint_Count 21 
+
+Leader Index 1 
+
+Leader Contour 85.5 
+
+Contour Threshold 85 
+
+Converging Before Rutherford Scattering [ 0.43245851 -0.34419075  0.00853068]_[-4.48211379 -1.88133056 -2.65516154] 
+
+Minimum Distance Within Rutherford Scattering 0.933 
+
+Converging After Rutherford Scattering [ 0.4729558  -0.49586779  0.11971044]_[-4.65381081 -1.53968764 -2.82510744] 
+
+drones next lat [48.33579417 48.33582211 48.3358106 ] drones next lon [14.32665093 14.32663749 14.32664595] 
+WayPoint_Count 22 
+
+Leader Index 1 
+
+Leader Contour 87.0 
+
+Contour Threshold 85 
+
+Converging Before Rutherford Scattering [ 0.16472757 -0.29575393 -0.28625851]_[-4.36472728 -1.63580444 -2.48299989] 
+
+Minimum Distance Within Rutherford Scattering 0.933 
+
+Converging After Rutherford Scattering [ 0.20311272 -0.30412581 -0.31627178]_[-4.52818623 -1.2635859  -2.69175948] 
+
+drones next lat [48.33579528 48.33582461 48.33581176] drones next lon [14.32664728 14.32664005 14.32664005] 
+WayPoint_Count 23 
+
+Leader Index 1 
+
+Leader Contour 116.0 
+
+Contour Threshold 85 
+
+Converging Before Rutherford Scattering [ 0.35378652 -0.47879712 -0.15646112]_[-4.05214175 -1.1265679  -2.08986053] 
+
+Minimum Distance Within Rutherford Scattering 0.933 
+
+Converging After Rutherford Scattering [ 0.39168812 -0.57682738 -0.09633246]_[-4.19623455 -0.82987202 -2.24246361] 
+
+drones next lat [48.33579828 48.33582849 48.33581582] drones next lon [14.32664978 14.32663632 14.32664297] 
+WayPoint_Count 24 
+
+Leader Index 1 
+
+Leader Contour 94.5 
+
+Contour Threshold 85 
+
+Converging Before Rutherford Scattering [ 0.11804994 -0.36192156 -0.08830431]_[-3.93239259 -0.77419897 -1.65938918] 
+
+Minimum Distance Within Rutherford Scattering 0.933 
+
+Converging After Rutherford Scattering [ 0.13037855 -0.45669883 -0.00585565]_[-4.05687992 -0.45489917 -1.85420166] 
+
+drones next lat [48.33579952 48.33583187 48.33581932] drones next lon [14.32664624 14.32663789 14.32664414] 
+WayPoint_Count 25 
+
+Leader Index 1 
+
+Leader Contour 29.5 
+
+Contour Threshold 85 
+
+Previous Drone Positions [ 0.13037855 -0.45669883 -0.00585565]_[-4.05687992 -0.45489917 -1.85420166] 
+
+Mean Previous Drone Positions [-0.11072531 -0.11072531 -0.11072531]_[-2.12199358 -2.12199358 -2.12199358] 
+
+relative Drone Positions [ 0.933 -0.    -0.933]_[-0.  0.  0.] 
+
+current starting Drone Positions [ 0.82227469 -0.11072531 -1.04372531]_[-2.12199358 -2.12199358 -2.12199358] 
+
+scanning direction vector [0. 0. 0.]_[2. 2. 2.] 
+
+changing back speed 3.0 
+
+velocity vector [ 1.0101295   0.60960342 -2.90486272]_[ 4.82482537 -0.93741105  1.25048511] 
+
+Moving Straight [ 1.14050805  0.15290458 -2.91071837]_[ 0.76794546 -1.39231022 -0.60371655] 
+
+drones next lat [48.335843   48.33582349 48.33583034] drones next lon [14.3266593  14.32664623 14.3266048 ] 
