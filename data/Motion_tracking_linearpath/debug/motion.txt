@@ -1,0 +1,2740 @@
+Waypoint 1 
+
+rect (257, 393, 25, 36) 
+
+previous_blob_personposition [0, 10] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [17.181433537293064, 26.202483056873653] 
+
+integralposition_centre [-0.7602028575178091, 0.30581173782537846] 
+
+integral_startposition [-17.08097089294276, -16.01495629759957] 
+
+currentblob_personposition [0.10046264435030494, 10.187526759274082] 
+
+dronemeanpos [5.958842609298556, -2.5770585419329537] 
+
+Scanning_direction 335.3469707161311 
+
+Distancetravelledbyperson 0.21274169397110507 
+
+Scanning_direction_Waypoint_Distance_c3 0.458273880323024 
+Waypoint 2 
+
+rect (285, 401, 27, 34) 
+
+previous_blob_personposition [0.10046264435030494, 10.187526759274082] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [19.030270541306045, 26.648754057842304] 
+
+integralposition_centre [-2.328944690942385, 1.1042819083157294] 
+
+integral_startposition [-18.649712726367337, -15.216486127109222] 
+
+currentblob_personposition [0.3805578149387081, 11.432267930733081] 
+
+dronemeanpos [4.904372739227857, -1.717561719036435] 
+
+Scanning_direction 341.0157172674843 
+
+Distancetravelledbyperson 1.2758659367316256 
+
+Scanning_direction_Waypoint_Distance_c3 1.577198373547795 
+Waypoint 3 
+
+rect (336, 419, 25, 22) 
+
+previous_blob_personposition [0.3805578149387081, 11.432267930733081] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [22.21792054822498, 27.413790059502848] 
+
+integralposition_centre [-5.3228200950005755, 1.436065863460016] 
+
+integral_startposition [-21.643588130425528, -14.884702171964936] 
+
+currentblob_personposition [0.5743324177994538, 12.529087887537912] 
+
+dronemeanpos [3.667402520811385, -1.1574870621962206] 
+
+Scanning_direction 347.2654749527785 
+
+Distancetravelledbyperson 1.1138054652223568 
+
+Scanning_direction_Waypoint_Distance_c3 1.413006369138201 
+Waypoint 4 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[-0.31147464 -0.31147464 -0.31147464 -0.31147464 -0.31147464 -0.31147464
+  -0.31147464 -0.31147464 -0.31147464 -0.31147464]
+ [ 1.37824909  1.37824909  1.37824909  1.37824909  1.37824909  1.37824909
+   1.37824909  1.37824909  1.37824909  1.37824909]] 
+
+Scanning_direction_Waypoint_Distance_c3 1.413006369138201 
+Waypoint 5 
+
+rect (314, 438, 25, 31) 
+
+previous_blob_personposition [0.5743324177994538, 12.529087887537912] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [20.81535454518065, 28.911985562754747] 
+
+integralposition_centre [-4.213483261173268, 3.8549108216644146] 
+
+integral_startposition [-20.53425129659822, -12.465857213760536] 
+
+currentblob_personposition [0.2811032485824292, 16.44612834899421] 
+
+dronemeanpos [1.5625752239545825, 0.9969462406223337] 
+
+Scanning_direction 355.2583097000775 
+
+Distancetravelledbyperson 3.928000677490456 
+
+Scanning_direction_Waypoint_Distance_c3 4.425098705155502 
+Waypoint 6 
+
+rect (175, 431, 23, 28) 
+
+previous_blob_personposition [0.2811032485824292, 16.44612834899421] 
+
+coverage 34.50676670346989 
+
+new_leader_index 3 
+
+blobposition [12.569359355853779, 29.99123277938301] 
+
+integralposition_centre [4.503729495716646, 5.918183370029215] 
+
+integral_startposition [-12.7496538560183, -11.335199981705731] 
+
+currentblob_personposition [-0.1802945001645213, 18.65603279767728] 
+
+dronemeanpos [0.6167451912602638, 1.4544278656970908] 
+
+Scanning_direction 357.3470864468611 
+
+Distancetravelledbyperson 2.257557431131703 
+
+Scanning_direction_Waypoint_Distance_c3 2.5453348168339445 
+Waypoint 7 
+
+rect (165, 405, 26, 27) 
+
+previous_blob_personposition [-0.1802945001645213, 18.65603279767728] 
+
+coverage 34.50676670346989 
+
+new_leader_index 3 
+
+blobposition [11.996493111753205, 28.205238018363573] 
+
+integralposition_centre [5.01880023668898, 8.749487752104] 
+
+integral_startposition [-12.234583115045966, -8.503895599630946] 
+
+currentblob_personposition [-0.2380900032927613, 19.70134241873263] 
+
+dronemeanpos [1.776844076695614, 2.723300050787321] 
+
+Scanning_direction 353.23186151752145 
+
+Distancetravelledbyperson 1.0469061677403202 
+
+Scanning_direction_Waypoint_Distance_c3 1.2833984476567015 
+Waypoint 8 
+
+rect (168, 407, 27, 24) 
+
+previous_blob_personposition [-0.2380900032927613, 19.70134241873263] 
+
+coverage 34.50676670346989 
+
+new_leader_index 3 
+
+blobposition [12.232379212265206, 28.23893603272243] 
+
+integralposition_centre [4.800357316046476, 9.466621736830142] 
+
+integral_startposition [-12.45302603568847, -7.786761614904805] 
+
+currentblob_personposition [-0.22064682342326414, 20.452174417817627] 
+
+dronemeanpos [2.5499907773617547, 3.932887742988528] 
+
+Scanning_direction 350.47889035945343 
+
+Distancetravelledbyperson 0.7510345899983126 
+
+Scanning_direction_Waypoint_Distance_c3 0.9913607886584789 
+Waypoint 9 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[-0.16398195 -0.16398195 -0.16398195 -0.16398195 -0.16398195 -0.16398195
+  -0.16398195 -0.16398195 -0.16398195 -0.16398195]
+ [ 0.97770452  0.97770452  0.97770452  0.97770452  0.97770452  0.97770452
+   0.97770452  0.97770452  0.97770452  0.97770452]] 
+
+Scanning_direction_Waypoint_Distance_c3 0.9913607886584789 
+Waypoint 10 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[-0.16398195 -0.16398195 -0.16398195 -0.16398195 -0.16398195 -0.16398195
+  -0.16398195 -0.16398195 -0.16398195 -0.16398195]
+ [ 0.97770452  0.97770452  0.97770452  0.97770452  0.97770452  0.97770452
+   0.97770452  0.97770452  0.97770452  0.97770452]] 
+
+Scanning_direction_Waypoint_Distance_c3 0.9913607886584789 
+Waypoint 11 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[-0.16398195 -0.16398195 -0.16398195 -0.16398195 -0.16398195 -0.16398195
+  -0.16398195 -0.16398195 -0.16398195 -0.16398195]
+ [ 0.97770452  0.97770452  0.97770452  0.97770452  0.97770452  0.97770452
+   0.97770452  0.97770452  0.97770452  0.97770452]] 
+
+Scanning_direction_Waypoint_Distance_c3 0.9913607886584789 
+Waypoint 12 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[-0.16398195 -0.16398195 -0.16398195 -0.16398195 -0.16398195 -0.16398195
+  -0.16398195 -0.16398195 -0.16398195 -0.16398195]
+ [ 0.97770452  0.97770452  0.97770452  0.97770452  0.97770452  0.97770452
+   0.97770452  0.97770452  0.97770452  0.97770452]] 
+
+Scanning_direction_Waypoint_Distance_c3 0.9913607886584789 
+Waypoint 13 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[-0.16398195 -0.16398195 -0.16398195 -0.16398195 -0.16398195 -0.16398195
+  -0.16398195 -0.16398195 -0.16398195 -0.16398195]
+ [ 0.97770452  0.97770452  0.97770452  0.97770452  0.97770452  0.97770452
+   0.97770452  0.97770452  0.97770452  0.97770452]] 
+
+Scanning_direction_Waypoint_Distance_c3 0.9913607886584789 
+Waypoint 14 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[-0.16398195 -0.16398195 -0.16398195 -0.16398195 -0.16398195 -0.16398195
+  -0.16398195 -0.16398195 -0.16398195 -0.16398195]
+ [ 0.97770452  0.97770452  0.97770452  0.97770452  0.97770452  0.97770452
+   0.97770452  0.97770452  0.97770452  0.97770452]] 
+
+Scanning_direction_Waypoint_Distance_c3 0.9913607886584789 
+Waypoint 15 
+
+rect (183, 439, 29, 28) 
+
+previous_blob_personposition [-0.22064682342326414, 20.452174417817627] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [12.591217527329796, 28.88010906268556] 
+
+integralposition_centre [3.558064503806064, 11.025370566586423] 
+
+integral_startposition [-12.762703531618888, -5.295397468838528] 
+
+currentblob_personposition [-0.17148600428909155, 23.584711593847032] 
+
+dronemeanpos [1.9435161393511968, 10.764270571591869] 
+
+Scanning_direction 350.632227370572 
+
+Distancetravelledbyperson 3.1329229076605483 
+
+Scanning_direction_Waypoint_Distance_c3 3.3766697226505027 
+Waypoint 16 
+
+rect (184, 413, 25, 25) 
+
+previous_blob_personposition [-0.17148600428909155, 23.584711593847032] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [12.527464527191418, 27.126901558880142] 
+
+integralposition_centre [3.364673784580862, 12.782656375569301] 
+
+integral_startposition [-12.956094250844089, -3.53811165985565] 
+
+currentblob_personposition [-0.42862972365267105, 23.58878989902449] 
+
+dronemeanpos [2.029052728265942, 11.147901726822022] 
+
+Scanning_direction 348.8251730503611 
+
+Distancetravelledbyperson 0.25717605833602747 
+
+Scanning_direction_Waypoint_Distance_c3 0.5003048214382362 
+Waypoint 17 
+
+rect (205, 400, 25, 27) 
+
+previous_blob_personposition [-0.42862972365267105, 23.58878989902449] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [13.86627753009737, 26.3618655572196] 
+
+integralposition_centre [2.3023547740830983, 13.50528199652196] 
+
+integral_startposition [-14.018413261341852, -2.815486038902991] 
+
+currentblob_personposition [-0.15213573124448132, 23.546379518316606] 
+
+dronemeanpos [2.2396767352959186, 11.10946325633426] 
+
+Scanning_direction 349.1140384548653 
+
+Distancetravelledbyperson 0.27972766797299087 
+
+Scanning_direction_Waypoint_Distance_c3 0.5962935040512374 
+Waypoint 18 
+
+rect (225, 352, 22, 25) 
+
+previous_blob_personposition [-0.15213573124448132, 23.546379518316606] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [15.045708032657377, 23.237968550439042] 
+
+integralposition_centre [1.0748003678195803, 16.42324413418841] 
+
+integral_startposition [-15.24596766760537, 0.1024760987634572] 
+
+currentblob_personposition [-0.2002596349479937, 23.3404446492025] 
+
+dronemeanpos [1.8183741026829892, 11.84483748807708] 
+
+Scanning_direction 350.0403771969423 
+
+Distancetravelledbyperson 0.21148304997022557 
+
+Scanning_direction_Waypoint_Distance_c3 0.45392139404717985 
+Waypoint 19 
+
+rect (255, 322, 19, 27) 
+
+previous_blob_personposition [-0.2002596349479937, 23.3404446492025] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [16.86266853660117, 21.38913154642606] 
+
+integralposition_centre [-0.5566104328039918, 17.800100883848096] 
+
+integral_startposition [-16.877378468228944, 1.4793328484231445] 
+
+currentblob_personposition [-0.014709931627773898, 22.868464394849205] 
+
+dronemeanpos [1.6557692066269176, 12.694666859463576] 
+
+Scanning_direction 350.6755627749118 
+
+Distancetravelledbyperson 0.5071430300237024 
+
+Scanning_direction_Waypoint_Distance_c3 0.8089030426028971 
+Waypoint 20 
+
+rect (279, 303, 23, 33) 
+
+previous_blob_personposition [-0.014709931627773898, 22.868464394849205] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [18.520246540199018, 20.369083544212] 
+
+integralposition_centre [-2.069995689052473, 18.873936064333947] 
+
+integral_startposition [-18.390763724477424, 2.5531680289089955] 
+
+currentblob_personposition [0.1294828157215946, 22.922251573120995] 
+
+dronemeanpos [1.163647308757839, 13.993574585542456] 
+
+Scanning_direction 353.3931528874373 
+
+Distancetravelledbyperson 0.15389804720853392 
+
+Scanning_direction_Waypoint_Distance_c3 0.46344784248564963 
+Waypoint 21 
+
+rect (306, 265, 23, 33) 
+
+previous_blob_personposition [0.1294828157215946, 22.922251573120995] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [20.241577543935243, 17.946469538953608] 
+
+integralposition_centre [-3.647175021253113, 21.171155627170805] 
+
+integral_startposition [-19.967943056678063, 4.850387591745854] 
+
+currentblob_personposition [0.27363448725717987, 22.79685713069946] 
+
+dronemeanpos [0.3346978616556662, 15.195372943637778] 
+
+Scanning_direction 359.5397479892526 
+
+Distancetravelledbyperson 0.19105881449624534 
+
+Scanning_direction_Waypoint_Distance_c3 0.45066164739567155 
+Waypoint 22 
+
+rect (332, 240, 23, 31) 
+
+previous_blob_personposition [0.27363448725717987, 22.79685713069946] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [21.899155547533088, 16.288891535355763] 
+
+integralposition_centre [-5.309183354521123, 22.70448528926309] 
+
+integral_startposition [-21.629951389946072, 6.383717253838139] 
+
+currentblob_personposition [0.26920415758701566, 22.6726087891939] 
+
+dronemeanpos [-0.655650034307138, 16.661122768431348] 
+
+Scanning_direction 8.746257126253795 
+
+Distancetravelledbyperson 0.124327302664654 
+
+Scanning_direction_Waypoint_Distance_c3 0.38170852381436937 
+Waypoint 23 
+
+rect (353, 213, 24, 30) 
+
+previous_blob_personposition [0.26920415758701566, 22.6726087891939] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [23.26984505050823, 14.535684031550348] 
+
+integralposition_centre [-6.575360852677761, 24.397572980593136] 
+
+integral_startposition [-22.896128888102712, 8.076804945168185] 
+
+currentblob_personposition [0.3737161624055183, 22.61248897671853] 
+
+dronemeanpos [-1.5172529104202028, 17.82827583094012] 
+
+Scanning_direction 21.566500978209774 
+
+Distancetravelledbyperson 0.12057010824933545 
+
+Scanning_direction_Waypoint_Distance_c3 0.38361856577708325 
+Waypoint 24 
+
+rect (207, 326, 21, 28) 
+
+previous_blob_personposition [0.3737161624055183, 22.61248897671853] 
+
+coverage 33.5741513871599 
+
+new_leader_index 5 
+
+blobposition [14.262456888100154, 22.29533490553587] 
+
+integralposition_centre [2.336158364167869, 17.569971308005183] 
+
+integral_startposition [-14.450917329412082, 0.7828956144252324] 
+
+currentblob_personposition [-0.1884604413119284, 23.078230519961103] 
+
+dronemeanpos [-2.2130728123623644, 19.028475553075864] 
+
+Scanning_direction 26.562050458458145 
+
+Distancetravelledbyperson 0.7300395324016747 
+
+Scanning_direction_Waypoint_Distance_c3 1.0152235959285139 
+Waypoint 25 
+
+rect (335, 197, 23, 27) 
+
+previous_blob_personposition [-0.1884604413119284, 23.078230519961103] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [22.090414547948225, 13.42000652912872] 
+
+integralposition_centre [-5.399343736072744, 25.52593462754622] 
+
+integral_startposition [-21.720111771497695, 9.20516659212127] 
+
+currentblob_personposition [0.37030277645052934, 22.62517312124999] 
+
+dronemeanpos [-1.071786877060627, 18.925637488907988] 
+
+Scanning_direction 21.29597999607489 
+
+Distancetravelledbyperson 0.7193589785712947 
+
+Scanning_direction_Waypoint_Distance_c3 0.9837837084121874 
+Waypoint 26 
+
+rect (228, 270, 21, 27) 
+
+previous_blob_personposition [0.37030277645052934, 22.62517312124999] 
+
+coverage 33.5741513871599 
+
+new_leader_index 5 
+
+blobposition [15.639521691089133, 18.590374840351235] 
+
+integralposition_centre [1.1109246677539486, 20.991702376629203] 
+
+integral_startposition [-15.676151025826002, 4.204626683049252] 
+
+currentblob_personposition [-0.03662933473686891, 22.795001523400487] 
+
+dronemeanpos [-2.3883283572893483, 20.222224323638248] 
+
+Scanning_direction 42.42950388842246 
+
+Distancetravelledbyperson 0.4409483295040632 
+
+Scanning_direction_Waypoint_Distance_c3 0.7065873059816363 
+Waypoint 27 
+
+rect (224, 284, 17, 27) 
+
+previous_blob_personposition [-0.03662933473686891, 22.795001523400487] 
+
+coverage 33.5741513871599 
+
+new_leader_index 5 
+
+blobposition [15.246074604520853, 19.508418042343887] 
+
+integralposition_centre [1.4975571908063268, 20.119857914679866] 
+
+integral_startposition [-15.289518502773625, 3.332782221099915] 
+
+currentblob_personposition [-0.04344389825277162, 22.841200263443802] 
+
+dronemeanpos [-1.3994671032363901, 20.293222995598267] 
+
+Scanning_direction 28.021727608682454 
+
+Distancetravelledbyperson 0.046698628004494466 
+
+Scanning_direction_Waypoint_Distance_c3 0.2903620097426646 
+Waypoint 28 
+
+rect (321, 196, 20, 28) 
+
+previous_blob_personposition [-0.04344389825277162, 22.841200263443802] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [21.102243045803355, 13.38813002905953] 
+
+integralposition_centre [-4.481462359739741, 25.4685804325509] 
+
+integral_startposition [-20.802230395164692, 9.14781239712595] 
+
+currentblob_personposition [0.30001265063866356, 22.53594242618548] 
+
+dronemeanpos [-0.5546351068556926, 20.49337686822472] 
+
+Scanning_direction 22.705349260266757 
+
+Distancetravelledbyperson 0.4595048946246866 
+
+Scanning_direction_Waypoint_Distance_c3 0.7351200737283279 
+Waypoint 29 
+
+rect (246, 288, 16, 24) 
+
+previous_blob_personposition [0.30001265063866356, 22.53594242618548] 
+
+coverage 34.50676670346989 
+
+new_leader_index 3 
+
+blobposition [17.118591294299517, 20.21880861531439] 
+
+integralposition_centre [0.19853339362982958, 19.891014343189802] 
+
+integral_startposition [-17.054849958105116, 2.6376309914548557] 
+
+currentblob_personposition [0.06374133619440059, 22.856439606769246] 
+
+dronemeanpos [-1.4881132289310404, 21.840701990555395] 
+
+Scanning_direction 56.793991489446796 
+
+Distancetravelledbyperson 0.3981740533879175 
+
+Scanning_direction_Waypoint_Distance_c3 0.5831264736499812 
+Waypoint 30 
+
+rect (207, 241, 18, 23) 
+
+previous_blob_personposition [0.06374133619440059, 22.856439606769246] 
+
+coverage 33.5741513871599 
+
+new_leader_index 5 
+
+blobposition [14.164095116458084, 16.557564893081786] 
+
+integralposition_centre [2.4450019309594655, 23.00388662115772] 
+
+integral_startposition [-14.342073762620485, 6.216810927577768] 
+
+currentblob_personposition [-0.17797864616240133, 22.774375820659554] 
+
+dronemeanpos [-0.9405188852079676, 21.520915363320086] 
+
+Scanning_direction 31.31415918098162 
+
+Distancetravelledbyperson 0.25527047393153407 
+
+Scanning_direction_Waypoint_Distance_c3 0.6020894901573332 
+Waypoint 31 
+
+rect (241, 243, 18, 22) 
+
+previous_blob_personposition [-0.17797864616240133, 22.774375820659554] 
+
+coverage 35.43938201977989 
+
+new_leader_index 6 
+
+blobposition [17.30438575184565, 17.58125592387518] 
+
+integralposition_centre [0.36192232457477375, 22.90872230607234] 
+
+integral_startposition [-17.357768685315172, 5.189031296182396] 
+
+currentblob_personposition [-0.053382933469521276, 22.770287220057575] 
+
+dronemeanpos [-0.3423186717437547, 22.151921826720194] 
+
+Scanning_direction 25.044675720103953 
+
+Distancetravelledbyperson 0.12466277823123151 
+
+Scanning_direction_Waypoint_Distance_c3 0.3067750943962982 
+Waypoint 32 
+
+rect (317, 156, 18, 28) 
+
+previous_blob_personposition [-0.053382933469521276, 22.770287220057575] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [20.783478045111462, 10.838010023524381] 
+
+integralposition_centre [-4.2344653788368465, 28.01218897167385] 
+
+integral_startposition [-20.5552334142618, 11.6914209362489] 
+
+currentblob_personposition [0.2282446308496624, 22.52943095977328] 
+
+dronemeanpos [-0.4392774517647336, 22.093589928388763] 
+
+Scanning_direction 56.85852565854822 
+
+Distancetravelledbyperson 0.3705749898502227 
+
+Scanning_direction_Waypoint_Distance_c3 0.6701833970467432 
+Waypoint 33 
+
+rect (223, 193, 18, 24) 
+
+previous_blob_personposition [0.2282446308496624, 22.52943095977328] 
+
+coverage 33.5741513871599 
+
+new_leader_index 5 
+
+blobposition [15.21328734730683, 13.442775457749569] 
+
+integralposition_centre [1.4331565377708404, 25.967954223527002] 
+
+integral_startposition [-15.35391915580911, 9.180878529947051] 
+
+currentblob_personposition [-0.14063180850228107, 22.62365398769662] 
+
+dronemeanpos [-1.5283240954261799, 23.534344705449012] 
+
+Scanning_direction 123.27539748421385 
+
+Distancetravelledbyperson 0.38072011570182474 
+
+Scanning_direction_Waypoint_Distance_c3 0.6261796259208823 
+Waypoint 34 
+
+rect (202, 219, 17, 29) 
+
+previous_blob_personposition [-0.14063180850228107, 22.62365398769662] 
+
+coverage 33.5741513871599 
+
+new_leader_index 5 
+
+blobposition [13.803435287103827, 15.3116491189489] 
+
+integralposition_centre [2.743418118972073, 24.361944365392436] 
+
+integral_startposition [-14.043657574607877, 7.574868671812485] 
+
+currentblob_personposition [-0.24022228750405006, 22.886517790761385] 
+
+dronemeanpos [-0.7123645681664337, 24.27930340424264] 
+
+Scanning_direction 161.27378546293193 
+
+Distancetravelledbyperson 0.2810972117781907 
+
+Scanning_direction_Waypoint_Distance_c3 0.6697762721595746 
+Waypoint 35 
+
+rect (140, 212, 16, 24) 
+
+previous_blob_personposition [-0.24022228750405006, 22.886517790761385] 
+
+coverage 33.5741513871599 
+
+new_leader_index 5 
+
+blobposition [9.70502813535091, 14.688691231882457] 
+
+integralposition_centre [6.590404315120978, 24.916776235903974] 
+
+integral_startposition [-10.196671378458973, 8.129700542324024] 
+
+currentblob_personposition [-0.4916432431080633, 22.818391774206482] 
+
+dronemeanpos [0.1254550339701237, 24.301577059467196] 
+
+Scanning_direction 202.59037960496232 
+
+Distancetravelledbyperson 0.2604873337582349 
+
+Scanning_direction_Waypoint_Distance_c3 0.5627089244143905 
+Waypoint 36 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[-0.21615918 -0.21615918 -0.21615918 -0.21615918 -0.21615918 -0.21615918
+  -0.21615918 -0.21615918 -0.21615918 -0.21615918]
+ [-0.51953493 -0.51953493 -0.51953493 -0.51953493 -0.51953493 -0.51953493
+  -0.51953493 -0.51953493 -0.51953493 -0.51953493]] 
+
+Scanning_direction_Waypoint_Distance_c3 0.5627089244143905 
+Waypoint 37 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[-0.21615918 -0.21615918 -0.21615918 -0.21615918 -0.21615918 -0.21615918
+  -0.21615918 -0.21615918 -0.21615918 -0.21615918]
+ [-0.51953493 -0.51953493 -0.51953493 -0.51953493 -0.51953493 -0.51953493
+  -0.51953493 -0.51953493 -0.51953493 -0.51953493]] 
+
+Scanning_direction_Waypoint_Distance_c3 0.5627089244143905 
+Waypoint 38 
+
+rect (269, 181, 19, 27) 
+
+previous_blob_personposition [-0.4916432431080633, 22.818391774206482] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [17.75521053853847, 12.39995852691466] 
+
+integralposition_centre [-1.4137944528543493, 26.455463646905628] 
+
+integral_startposition [-17.734562488279302, 10.134695611480677] 
+
+currentblob_personposition [0.020648050259168826, 22.534654138395336] 
+
+dronemeanpos [1.1585365749500798, 23.421072569779625] 
+
+Scanning_direction 232.08130675589564 
+
+Distancetravelledbyperson 0.5856188310117513 
+
+Scanning_direction_Waypoint_Distance_c3 0.9024327974913948 
+Waypoint 39 
+
+rect (265, 61, 40, 30) 
+
+previous_blob_personposition [0.020648050259168826, 22.534654138395336] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [18.169605039437933, 4.845228010516783] 
+
+integralposition_centre [0.23336541824806617, 29.161747684970802] 
+
+integral_startposition [-16.087402617176885, 12.84097964954585] 
+
+currentblob_personposition [2.082202422261048, 17.686207660062635] 
+
+dronemeanpos [0.6667269613854183, 23.738964769677] 
+
+Scanning_direction 166.83756362631763 
+
+Distancetravelledbyperson 5.268532972467462 
+
+Scanning_direction_Waypoint_Distance_c3 5.6009943030655425 
+Waypoint 40 
+
+rect (253, 96, 20, 25) 
+
+previous_blob_personposition [2.082202422261048, 17.686207660062635] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [16.7670390363936, 6.91720051501409] 
+
+integralposition_centre [-0.4163198183206184, 31.61609992553305] 
+
+integral_startposition [-16.73708785374557, 15.295331890108098] 
+
+currentblob_personposition [0.02995118264803054, 22.21253240512219] 
+
+dronemeanpos [0.35716983886384346, 24.706343802737614] 
+
+Scanning_direction 187.4752051760334 
+
+Distancetravelledbyperson 4.96984414727782 
+
+Scanning_direction_Waypoint_Distance_c3 5.265149431746416 
+Waypoint 41 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[-0.68498084 -0.68498084 -0.68498084 -0.68498084 -0.68498084 -0.68498084
+  -0.68498084 -0.68498084 -0.68498084 -0.68498084]
+ [-5.22040226 -5.22040226 -5.22040226 -5.22040226 -5.22040226 -5.22040226
+  -5.22040226 -5.22040226 -5.22040226 -5.22040226]] 
+
+Scanning_direction_Waypoint_Distance_c3 5.265149431746416 
+Waypoint 42 
+
+rect (267, 180, 20, 26) 
+
+previous_blob_personposition [0.02995118264803054, 22.21253240512219] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [17.659581038330906, 12.304329026707093] 
+
+integralposition_centre [-1.1318590722195405, 26.55003529783057] 
+
+integral_startposition [-17.452627107644492, 10.229267262405617] 
+
+currentblob_personposition [0.20695393068641366, 22.533596289112708] 
+
+dronemeanpos [0.01061710625056822, 20.94536177111491] 
+
+Scanning_direction 7.0471256090546035 
+
+Distancetravelledbyperson 0.36662240850255806 
+
+Scanning_direction_Waypoint_Distance_c3 0.658008446263568 
+Waypoint 43 
+
+rect (276, 147, 20, 26) 
+
+previous_blob_personposition [0.20695393068641366, 22.533596289112708] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [18.233358039576313, 10.200480022140594] 
+
+integralposition_centre [-1.7610078710064418, 28.554270442421174] 
+
+integral_startposition [-18.081775906431393, 12.233502406996223] 
+
+currentblob_personposition [0.1515821331449203, 22.43398242913682] 
+
+dronemeanpos [-0.03155704650236011, 22.149586213102744] 
+
+Scanning_direction 32.779828704337774 
+
+Distancetravelledbyperson 0.11396910573603804 
+
+Scanning_direction_Waypoint_Distance_c3 0.3623149557198964 
+Waypoint 44 
+
+rect (284, 109, 20, 26) 
+
+previous_blob_personposition [0.1515821331449203, 22.43398242913682] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [18.743382040683343, 7.777866016882204] 
+
+integralposition_centre [-2.218942825415388, 30.787028320234498] 
+
+integral_startposition [-18.539710860840337, 14.466260284809547] 
+
+currentblob_personposition [0.2036711798430062, 22.24412630169175] 
+
+dronemeanpos [-0.43764854616760296, 23.319041954885037] 
+
+Scanning_direction 149.1787131821671 
+
+Distancetravelledbyperson 0.1968720851577325 
+
+Scanning_direction_Waypoint_Distance_c3 0.42837066394442824 
+Waypoint 45 
+
+rect (201, 202, 16, 32) 
+
+previous_blob_personposition [0.2036711798430062, 22.24412630169175] 
+
+coverage 33.5741513871599 
+
+new_leader_index 5 
+
+blobposition [13.705073515461757, 14.295244145314177] 
+
+integralposition_centre [2.8722639480173022, 25.34727396507922] 
+
+integral_startposition [-13.914811745562648, 8.56019827149927] 
+
+currentblob_personposition [-0.209738230100891, 22.855442416813446] 
+
+dronemeanpos [-0.5870808338689157, 24.83057510001628] 
+
+Scanning_direction 169.18416145341232 
+
+Distancetravelledbyperson 0.7379801710328291 
+
+Scanning_direction_Waypoint_Distance_c3 0.9781090781937867 
+Waypoint 46 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[ 0.18354495  0.18354495  0.18354495  0.18354495  0.18354495  0.18354495
+   0.18354495  0.18354495  0.18354495  0.18354495]
+ [-0.96073338 -0.96073338 -0.96073338 -0.96073338 -0.96073338 -0.96073338
+  -0.96073338 -0.96073338 -0.96073338 -0.96073338]] 
+
+Scanning_direction_Waypoint_Distance_c3 0.9781090781937867 
+Waypoint 47 
+
+rect (247, 133, 22, 26) 
+
+previous_blob_personposition [-0.209738230100891, 22.855442416813446] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [16.448274035701708, 9.307938020203293] 
+
+integralposition_centre [-0.07439742094010404, 29.42748962302866] 
+
+integral_startposition [-16.395165456365056, 13.106721587603708] 
+
+currentblob_personposition [0.053108579336651474, 22.414659607807003] 
+
+dronemeanpos [0.6767475019392445, 24.058760306936325] 
+
+Scanning_direction 200.7726970310664 
+
+Distancetravelledbyperson 0.5132035950255084 
+
+Scanning_direction_Waypoint_Distance_c3 0.7861257899070924 
+Waypoint 48 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[-0.34689759 -0.34689759 -0.34689759 -0.34689759 -0.34689759 -0.34689759
+  -0.34689759 -0.34689759 -0.34689759 -0.34689759]
+ [-0.91452689 -0.91452689 -0.91452689 -0.91452689 -0.91452689 -0.91452689
+  -0.91452689 -0.91452689 -0.91452689 -0.91452689]] 
+
+Scanning_direction_Waypoint_Distance_c3 0.9781090781937867 
+Waypoint 49 
+
+rect (263, 146, 20, 22) 
+
+previous_blob_personposition [0.053108579336651474, 22.414659607807003] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [17.40456903777739, 10.009221021725459] 
+
+integralposition_centre [-0.9429210377111016, 28.849225834996506] 
+
+integral_startposition [-17.263689073136053, 12.528457799571555] 
+
+currentblob_personposition [0.14087996464133568, 22.537678821297014] 
+
+dronemeanpos [0.404447508899751, 24.28979050275705] 
+
+Scanning_direction 188.55477548305353 
+
+Distancetravelledbyperson 0.1511209547548062 
+
+Scanning_direction_Waypoint_Distance_c3 0.4496257416543669 
+Waypoint 50 
+
+rect (281, 126, 21, 20) 
+
+previous_blob_personposition [0.14087996464133568, 22.537678821297014] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [18.583999540337395, 8.670408018819506] 
+
+integralposition_centre [-2.030312815176169, 29.96867855316592] 
+
+integral_startposition [-18.35108085060112, 13.647910517740968] 
+
+currentblob_personposition [0.23291868973627317, 22.318318536560476] 
+
+dronemeanpos [0.16968655242924235, 25.23245197570784] 
+
+Scanning_direction 178.75696626541526 
+
+Distancetravelledbyperson 0.23788665670187695 
+
+Scanning_direction_Waypoint_Distance_c3 0.5690242273533584 
+Waypoint 51 
+
+rect (185, 146, 26, 22) 
+
+previous_blob_personposition [0.23291868973627317, 22.318318536560476] 
+
+coverage 33.5741513871599 
+
+new_leader_index 5 
+
+blobposition [12.983753856753243, 10.29519876520333] 
+
+integralposition_centre [3.5513339720439716, 27.79666632070845] 
+
+integral_startposition [-13.235741721535978, 11.0095906271285] 
+
+currentblob_personposition [-0.2519878647827358, 21.304789392331827] 
+
+dronemeanpos [-0.2799276910546082, 26.666354101761026] 
+
+Scanning_direction 179.70142678080015 
+
+Distancetravelledbyperson 1.1235549353798209 
+
+Scanning_direction_Waypoint_Distance_c3 1.3424060144202505 
+Waypoint 52 
+
+rect (255, 35, 25, 19) 
+
+previous_blob_personposition [-0.2519878647827358, 21.304789392331827] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [17.053927537016307, 2.837008506157853] 
+
+integralposition_centre [-0.6972004515538833, 33.436365453274306] 
+
+integral_startposition [-17.017968486978834, 17.115597417849354] 
+
+currentblob_personposition [0.035959050037472906, 19.95260592400721] 
+
+dronemeanpos [0.26388533351015087, 26.993920873717947] 
+
+Scanning_direction 181.85400821625848 
+
+Distancetravelledbyperson 1.3825026429504108 
+
+Scanning_direction_Waypoint_Distance_c3 1.6292149701854044 
+Waypoint 53 
+
+rect (261, 3, 25, 19) 
+
+previous_blob_personposition [0.035959050037472906, 19.95260592400721] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [17.436445537846577, 0.7969125017297339] 
+
+integralposition_centre [-1.1219687460145615, 34.328153768636184] 
+
+integral_startposition [-17.442736781439514, 18.007385733211233] 
+
+currentblob_personposition [-0.006291243592936979, 18.804298234940966] 
+
+dronemeanpos [0.09093010009187949, 28.211095965794744] 
+
+Scanning_direction 180.59214352294205 
+
+Distancetravelledbyperson 1.1490846949117857 
+
+Scanning_direction_Waypoint_Distance_c3 1.445947905199688 
+Waypoint 54 
+
+rect (270, 101, 24, 20) 
+
+previous_blob_personposition [-0.006291243592936979, 18.804298234940966] 
+
+coverage 34.50676670346989 
+
+new_leader_index 3 
+
+blobposition [19.005680098395526, 7.480959187666325] 
+
+integralposition_centre [-1.7244970508026058, 27.615850724410333] 
+
+integral_startposition [-18.97788040253755, 10.362467372675386] 
+
+currentblob_personposition [0.027799695857975593, 17.84342656034171] 
+
+dronemeanpos [-0.17265834178976913, 29.606364937597412] 
+
+Scanning_direction 179.0236888507331 
+
+Distancetravelledbyperson 0.9614762437001864 
+
+Scanning_direction_Waypoint_Distance_c3 1.1842845117530167 
+Waypoint 55 
+
+rect (272, 82, 27, 26) 
+
+previous_blob_personposition [0.027799695857975593, 17.84342656034171] 
+
+coverage 34.50676670346989 
+
+new_leader_index 3 
+
+blobposition [19.241566198907528, 6.40262272818289] 
+
+integralposition_centre [-1.8966777104785846, 27.85161378638402] 
+
+integral_startposition [-19.15006106221353, 10.598230434649075] 
+
+currentblob_personposition [0.09150513669399629, 17.000853162831966] 
+
+dronemeanpos [-0.6767511827576608, 29.39292904687331] 
+
+Scanning_direction 176.45244421091746 
+
+Distancetravelledbyperson 0.8449782916638912 
+
+Scanning_direction_Waypoint_Distance_c3 1.0578339961758991 
+Waypoint 56 
+
+rect (282, 55, 25, 23) 
+
+previous_blob_personposition [0.09150513669399629, 17.000853162831966] 
+
+coverage 34.50676670346989 
+
+new_leader_index 3 
+
+blobposition [19.84813045736696, 4.481835909728023] 
+
+integralposition_centre [-2.3726921192940877, 28.97924230889966] 
+
+integral_startposition [-19.626075471029033, 11.725858957164714] 
+
+currentblob_personposition [0.22205498633792686, 16.207694866892737] 
+
+dronemeanpos [-1.081880790600017, 28.92535331698692] 
+
+Scanning_direction 174.1459456225524 
+
+Distancetravelledbyperson 0.8038304209590938 
+
+Scanning_direction_Waypoint_Distance_c3 0.948482586610033 
+Waypoint 57 
+
+rect (289, 30, 28, 21) 
+
+previous_blob_personposition [0.22205498633792686, 16.207694866892737] 
+
+coverage 34.50676670346989 
+
+new_leader_index 3 
+
+blobposition [20.420996701467534, 2.7295391630674426] 
+
+integralposition_centre [-2.95764207590714, 29.974248093506954] 
+
+integral_startposition [-20.211025427642085, 12.720864741772008] 
+
+currentblob_personposition [0.2099712738254489, 15.450403904839451] 
+
+dronemeanpos [-1.3798145768875807, 28.869977226014726] 
+
+Scanning_direction 173.24379081490167 
+
+Distancetravelledbyperson 0.7573873627911123 
+
+Scanning_direction_Waypoint_Distance_c3 1.141945390115242 
+Waypoint 58 
+
+rect (338, 13, 25, 29) 
+
+previous_blob_personposition [0.2099712738254489, 15.450403904839451] 
+
+coverage 36.37199733608989 
+
+new_leader_index 2 
+
+blobposition [24.899189582616224, 1.9535740756688906] 
+
+integralposition_centre [-6.505388774571264, 30.05570495098941] 
+
+integral_startposition [-24.69138744261621, 11.869706282944463] 
+
+currentblob_personposition [0.20780214000001251, 13.823280358613355] 
+
+dronemeanpos [-1.4041796246881675, 29.137004067846835] 
+
+Scanning_direction 173.99095390014793 
+
+Distancetravelledbyperson 1.6271249920718878 
+
+Scanning_direction_Waypoint_Distance_c3 1.9072211682228528 
+Waypoint 59 
+
+rect (281, 0, 19, 26) 
+
+previous_blob_personposition [0.20780214000001251, 13.823280358613355] 
+
+coverage 34.50676670346989 
+
+new_leader_index 3 
+
+blobposition [19.5785463424961, 0.8761483733302903] 
+
+integralposition_centre [-2.2611544476636256, 29.196824867876998] 
+
+integral_startposition [-19.51453779939857, 11.943441516142052] 
+
+currentblob_personposition [0.06400854309752901, 12.819589889472342] 
+
+dronemeanpos [-2.4187410561174216, 29.483582380418323] 
+
+Scanning_direction 171.52590080539449 
+
+Distancetravelledbyperson 1.013938438148323 
+
+Scanning_direction_Waypoint_Distance_c3 1.2162518528047341 
+Waypoint 60 
+
+rect (268, 73, 16, 28) 
+
+previous_blob_personposition [0.06400854309752901, 12.819589889472342] 
+
+coverage 37.30461265239989 
+
+new_leader_index 7 
+
+blobposition [20.109517757934317, 6.3388697280445125] 
+
+integralposition_centre [-1.5537970274220074, 24.518603171174735] 
+
+integral_startposition [-20.206103353621952, 5.866296844974791] 
+
+currentblob_personposition [-0.09658559568763536, 12.205166573019303] 
+
+dronemeanpos [-2.6554544075501703, 29.398083221336947] 
+
+Scanning_direction 171.53465323434835 
+
+Distancetravelledbyperson 0.6350641614933873 
+
+Scanning_direction_Waypoint_Distance_c3 0.8780025402580572 
+Waypoint 61 
+
+rect (380, 0, 21, 20) 
+
+previous_blob_personposition [-0.09658559568763536, 12.205166573019303] 
+
+coverage 36.37199733608989 
+
+new_leader_index 2 
+
+blobposition [27.740751874498248, 0.7103905729705057] 
+
+integralposition_centre [-9.122590511201173, 28.656690485959512] 
+
+integral_startposition [-27.30858917924612, 10.470691817914567] 
+
+currentblob_personposition [0.4321626952521278, 11.181082390885072] 
+
+dronemeanpos [-2.099422326358812, 28.107940398288793] 
+
+Scanning_direction 171.49387767628653 
+
+Distancetravelledbyperson 1.1525290309876182 
+
+Scanning_direction_Waypoint_Distance_c3 1.4049560093922406 
+Waypoint 62 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[ 0.2078142   0.2078142   0.2078142   0.2078142   0.2078142   0.2078142
+   0.2078142   0.2078142   0.2078142   0.2078142 ]
+ [-1.38950158 -1.38950158 -1.38950158 -1.38950158 -1.38950158 -1.38950158
+  -1.38950158 -1.38950158 -1.38950158 -1.38950158]] 
+
+Scanning_direction_Waypoint_Distance_c3 1.4049560093922406 
+Waypoint 63 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[ 0.2078142   0.2078142   0.2078142   0.2078142   0.2078142   0.2078142
+   0.2078142   0.2078142   0.2078142   0.2078142 ]
+ [-1.38950158 -1.38950158 -1.38950158 -1.38950158 -1.38950158 -1.38950158
+  -1.38950158 -1.38950158 -1.38950158 -1.38950158]] 
+
+Scanning_direction_Waypoint_Distance_c3 1.4049560093922406 
+Waypoint 64 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[ 0.2078142   0.2078142   0.2078142   0.2078142   0.2078142   0.2078142
+   0.2078142   0.2078142   0.2078142   0.2078142 ]
+ [-1.38950158 -1.38950158 -1.38950158 -1.38950158 -1.38950158 -1.38950158
+  -1.38950158 -1.38950158 -1.38950158 -1.38950158]] 
+
+Scanning_direction_Waypoint_Distance_c3 1.4049560093922406 
+Waypoint 65 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[ 0.2078142   0.2078142   0.2078142   0.2078142   0.2078142   0.2078142
+   0.2078142   0.2078142   0.2078142   0.2078142 ]
+ [-1.38950158 -1.38950158 -1.38950158 -1.38950158 -1.38950158 -1.38950158
+  -1.38950158 -1.38950158 -1.38950158 -1.38950158]] 
+
+Scanning_direction_Waypoint_Distance_c3 1.4049560093922406 
+Waypoint 66 
+
+rect (430, 0, 25, 24) 
+
+previous_blob_personposition [0.4321626952521278, 11.181082390885072] 
+
+coverage 36.37199733608989 
+
+new_leader_index 2 
+
+blobposition [31.434782853944878, 0.8524686875646068] 
+
+integralposition_centre [-12.385765223106254, 21.911623625055217] 
+
+integral_startposition [-30.5717638911512, 3.7256249570102717] 
+
+currentblob_personposition [0.863018962793678, 4.578093644574879] 
+
+dronemeanpos [-2.603666831583248, 22.89641335851724] 
+
+Scanning_direction 169.2836829491892 
+
+Distancetravelledbyperson 6.617030867933056 
+
+Scanning_direction_Waypoint_Distance_c3 6.934628153721771 
+Waypoint 67 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[ 0.26124657  0.26124657  0.26124657  0.26124657  0.26124657  0.26124657
+   0.26124657  0.26124657  0.26124657  0.26124657]
+ [-1.38045341 -1.38045341 -1.38045341 -1.38045341 -1.38045341 -1.38045341
+  -1.38045341 -1.38045341 -1.38045341 -1.38045341]] 
+
+Scanning_direction_Waypoint_Distance_c3 1.4049560093922406 
+Waypoint 68 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[ 0.26124657  0.26124657  0.26124657  0.26124657  0.26124657  0.26124657
+   0.26124657  0.26124657  0.26124657  0.26124657]
+ [-1.38045341 -1.38045341 -1.38045341 -1.38045341 -1.38045341 -1.38045341
+  -1.38045341 -1.38045341 -1.38045341 -1.38045341]] 
+
+Scanning_direction_Waypoint_Distance_c3 1.4049560093922406 
+Waypoint 69 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[ 0.26124657  0.26124657  0.26124657  0.26124657  0.26124657  0.26124657
+   0.26124657  0.26124657  0.26124657  0.26124657]
+ [-1.38045341 -1.38045341 -1.38045341 -1.38045341 -1.38045341 -1.38045341
+  -1.38045341 -1.38045341 -1.38045341 -1.38045341]] 
+
+Scanning_direction_Waypoint_Distance_c3 1.4049560093922406 
+Waypoint 70 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[ 0.26124657  0.26124657  0.26124657  0.26124657  0.26124657  0.26124657
+   0.26124657  0.26124657  0.26124657  0.26124657]
+ [-1.38045341 -1.38045341 -1.38045341 -1.38045341 -1.38045341 -1.38045341
+  -1.38045341 -1.38045341 -1.38045341 -1.38045341]] 
+
+Scanning_direction_Waypoint_Distance_c3 1.4049560093922406 
+Waypoint 71 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[ 0.26124657  0.26124657  0.26124657  0.26124657  0.26124657  0.26124657
+   0.26124657  0.26124657  0.26124657  0.26124657]
+ [-1.38045341 -1.38045341 -1.38045341 -1.38045341 -1.38045341 -1.38045341
+  -1.38045341 -1.38045341 -1.38045341 -1.38045341]] 
+
+Scanning_direction_Waypoint_Distance_c3 1.4049560093922406 
+Waypoint 72 
+
+rect (372, 13, 25, 30) 
+
+previous_blob_personposition [0.863018962793678, 4.578093644574879] 
+
+coverage 34.50676670346989 
+
+new_leader_index 3 
+
+blobposition [25.913773041961278, 1.8870888040960097] 
+
+integralposition_centre [-8.123789544256406, 14.959802942746876] 
+
+integral_startposition [-25.37717289599135, -2.2935804089880705] 
+
+currentblob_personposition [0.5366001459699277, -0.4064916048920608] 
+
+dronemeanpos [-2.164644570314743, 16.488300586716072] 
+
+Scanning_direction 170.916078738679 
+
+Distancetravelledbyperson 4.995261690159987 
+
+Scanning_direction_Waypoint_Distance_c3 5.242734623554564 
+Waypoint 73 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[ 0.22181581  0.22181581  0.22181581  0.22181581  0.22181581  0.22181581
+   0.22181581  0.22181581  0.22181581  0.22181581]
+ [-1.38733526 -1.38733526 -1.38733526 -1.38733526 -1.38733526 -1.38733526
+  -1.38733526 -1.38733526 -1.38733526 -1.38733526]] 
+
+Scanning_direction_Waypoint_Distance_c3 1.4049560093922406 
+Waypoint 74 
+
+rect (354, 18, 33, 30) 
+
+previous_blob_personposition [0.5366001459699277, -0.4064916048920608] 
+
+coverage 34.50676670346989 
+
+new_leader_index 3 
+
+blobposition [24.970228639913273, 2.2240689476845827] 
+
+integralposition_centre [-7.442209134657938, 12.944218409127] 
+
+integral_startposition [-24.695592486392883, -4.309164942607946] 
+
+currentblob_personposition [0.2746361535203903, -2.0850959949233636] 
+
+dronemeanpos [-2.2454828102274598, 14.887463363035991] 
+
+Scanning_direction 171.55431635683658 
+
+Distancetravelledbyperson 1.6989225501983494 
+
+Scanning_direction_Waypoint_Distance_c3 1.9548940118009193 
+Waypoint 75 
+
+rect (352, 17, 30, 26) 
+
+previous_blob_personposition [0.2746361535203903, -2.0850959949233636] 
+
+coverage 34.50676670346989 
+
+new_leader_index 3 
+
+blobposition [24.734342539401272, 2.021880861531439] 
+
+integralposition_centre [-7.111802148086644, 11.977141316149952] 
+
+integral_startposition [-24.365185499821592, -5.276242035584994] 
+
+currentblob_personposition [0.3691570395796795, -3.2543611740535554] 
+
+dronemeanpos [-2.875629542702426, 14.47299844959143] 
+
+Scanning_direction 169.62749496942314 
+
+Distancetravelledbyperson 1.1730793907608268 
+
+Scanning_direction_Waypoint_Distance_c3 1.4452494840061336 
+Waypoint 76 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[ 0.26021302  0.26021302  0.26021302  0.26021302  0.26021302  0.26021302
+   0.26021302  0.26021302  0.26021302  0.26021302]
+ [-1.42163119 -1.42163119 -1.42163119 -1.42163119 -1.42163119 -1.42163119
+  -1.42163119 -1.42163119 -1.42163119 -1.42163119]] 
+
+Scanning_direction_Waypoint_Distance_c3 1.4452494840061336 
+Waypoint 77 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[ 0.26021302  0.26021302  0.26021302  0.26021302  0.26021302  0.26021302
+   0.26021302  0.26021302  0.26021302  0.26021302]
+ [-1.42163119 -1.42163119 -1.42163119 -1.42163119 -1.42163119 -1.42163119
+  -1.42163119 -1.42163119 -1.42163119 -1.42163119]] 
+
+Scanning_direction_Waypoint_Distance_c3 1.4452494840061336 
+Waypoint 78 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[ 0.26021302  0.26021302  0.26021302  0.26021302  0.26021302  0.26021302
+   0.26021302  0.26021302  0.26021302  0.26021302]
+ [-1.42163119 -1.42163119 -1.42163119 -1.42163119 -1.42163119 -1.42163119
+  -1.42163119 -1.42163119 -1.42163119 -1.42163119]] 
+
+Scanning_direction_Waypoint_Distance_c3 1.4452494840061336 
+Waypoint 79 
+
+rect (204, 10, 25, 21) 
+
+previous_blob_personposition [0.3691570395796795, -3.2543611740535554] 
+
+coverage 35.43938201977989 
+
+new_leader_index 6 
+
+blobposition [14.985598061098333, 1.4189596316513433] 
+
+integralposition_centre [2.382643519872379, 9.402175368163373] 
+
+integral_startposition [-15.337047490017566, -8.317515641726573] 
+
+currentblob_personposition [-0.35144942891923314, -6.898556010075229] 
+
+dronemeanpos [-2.4567772490781445, 9.291025434819723] 
+
+Scanning_direction 172.59071355443018 
+
+Distancetravelledbyperson 3.714758361633971 
+
+Scanning_direction_Waypoint_Distance_c3 3.9299656110873116 
+Waypoint 80 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[ 0.18637406  0.18637406  0.18637406  0.18637406  0.18637406  0.18637406
+   0.18637406  0.18637406  0.18637406  0.18637406]
+ [-1.43318205 -1.43318205 -1.43318205 -1.43318205 -1.43318205 -1.43318205
+  -1.43318205 -1.43318205 -1.43318205 -1.43318205]] 
+
+Scanning_direction_Waypoint_Distance_c3 1.4452494840061336 
+Waypoint 81 
+
+rect (358, 24, 25, 30) 
+
+previous_blob_personposition [-0.35144942891923314, -6.898556010075229] 
+
+coverage 34.50676670346989 
+
+new_leader_index 3 
+
+blobposition [24.970228639913273, 2.6284451199908707] 
+
+integralposition_centre [-7.194153692249874, 5.8593139007491954] 
+
+integral_startposition [-24.44753704398482, -11.39406945098575] 
+
+currentblob_personposition [0.5226915959284533, -8.765624330994878] 
+
+dronemeanpos [-1.8323118156437352, 7.837054726308487] 
+
+Scanning_direction 171.92674954131047 
+
+Distancetravelledbyperson 2.061568976848333 
+
+Scanning_direction_Waypoint_Distance_c3 2.312608815929124 
+Waypoint 82 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[ 0.2029694  0.2029694  0.2029694  0.2029694  0.2029694  0.2029694
+   0.2029694  0.2029694  0.2029694  0.2029694]
+ [-1.4309261 -1.4309261 -1.4309261 -1.4309261 -1.4309261 -1.4309261
+  -1.4309261 -1.4309261 -1.4309261 -1.4309261]] 
+
+Scanning_direction_Waypoint_Distance_c3 1.4452494840061336 
+Waypoint 83 
+
+rect (370, 37, 27, 30) 
+
+previous_blob_personposition [0.5226915959284533, -8.765624330994878] 
+
+coverage 34.50676670346989 
+
+new_leader_index 3 
+
+blobposition [25.84637701324356, 3.504593493321161] 
+
+integralposition_centre [-7.816972665483553, 3.0707903216702035] 
+
+integral_startposition [-25.0703560172185, -14.182593030064742] 
+
+currentblob_personposition [0.7760209960250606, -10.677999536743581] 
+
+dronemeanpos [-2.3984130349684953, 5.9476718184502575] 
+
+Scanning_direction 169.19029864579977 
+
+Distancetravelledbyperson 1.9290813130906896 
+
+Scanning_direction_Waypoint_Distance_c3 2.179008698507308 
+Waypoint 84 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[ 0.27105312  0.27105312  0.27105312  0.27105312  0.27105312  0.27105312
+   0.27105312  0.27105312  0.27105312  0.27105312]
+ [-1.41960427 -1.41960427 -1.41960427 -1.41960427 -1.41960427 -1.41960427
+  -1.41960427 -1.41960427 -1.41960427 -1.41960427]] 
+
+Scanning_direction_Waypoint_Distance_c3 1.4452494840061336 
+Waypoint 85 
+
+rect (404, 45, 24, 22) 
+
+previous_blob_personposition [0.7760209960250606, -10.677999536743581] 
+
+coverage 36.37199733608989 
+
+new_leader_index 2 
+
+blobposition [29.552247835573034, 3.9781872086348318] 
+
+integralposition_centre [-10.962923176629765, 1.5442563629487052] 
+
+integral_startposition [-29.14892184467471, -16.64174230509624] 
+
+currentblob_personposition [0.403325990898324, -12.663555096461408] 
+
+dronemeanpos [-2.8732916682367193, 4.213442086737927] 
+
+Scanning_direction 169.012883834621 
+
+Distancetravelledbyperson 2.0202307906704107 
+
+Scanning_direction_Waypoint_Distance_c3 2.269995207420969 
+Waypoint 86 
+
+rect (380, 36, 22, 23) 
+
+previous_blob_personposition [0.403325990898324, -12.663555096461408] 
+
+coverage 34.50676670346989 
+
+new_leader_index 3 
+
+blobposition [26.351847228626422, 3.201311364091445] 
+
+integralposition_centre [-8.837329925812211, 0.609837819773905] 
+
+integral_startposition [-26.09071327754716, -16.643545531961042] 
+
+currentblob_personposition [0.2611339510792625, -13.442234167869596] 
+
+dronemeanpos [-4.235790260511507, 4.27090875107236] 
+
+Scanning_direction 165.75498656636992 
+
+Distancetravelledbyperson 0.7915552238707187 
+
+Scanning_direction_Waypoint_Distance_c3 1.0696569046796156 
+Waypoint 87 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[ 0.26320934  0.26320934  0.26320934  0.26320934  0.26320934  0.26320934
+   0.26320934  0.26320934  0.26320934  0.26320934]
+ [-1.03676745 -1.03676745 -1.03676745 -1.03676745 -1.03676745 -1.03676745
+  -1.03676745 -1.03676745 -1.03676745 -1.03676745]] 
+
+Scanning_direction_Waypoint_Distance_c3 1.0696569046796156 
+Waypoint 88 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[ 0.26320934  0.26320934  0.26320934  0.26320934  0.26320934  0.26320934
+   0.26320934  0.26320934  0.26320934  0.26320934]
+ [-1.03676745 -1.03676745 -1.03676745 -1.03676745 -1.03676745 -1.03676745
+  -1.03676745 -1.03676745 -1.03676745 -1.03676745]] 
+
+Scanning_direction_Waypoint_Distance_c3 1.0696569046796156 
+Waypoint 89 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[ 0.26320934  0.26320934  0.26320934  0.26320934  0.26320934  0.26320934
+   0.26320934  0.26320934  0.26320934  0.26320934]
+ [-1.03676745 -1.03676745 -1.03676745 -1.03676745 -1.03676745 -1.03676745
+  -1.03676745 -1.03676745 -1.03676745 -1.03676745]] 
+
+Scanning_direction_Waypoint_Distance_c3 1.0696569046796156 
+Waypoint 90 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[ 0.26320934  0.26320934  0.26320934  0.26320934  0.26320934  0.26320934
+   0.26320934  0.26320934  0.26320934  0.26320934]
+ [-1.03676745 -1.03676745 -1.03676745 -1.03676745 -1.03676745 -1.03676745
+  -1.03676745 -1.03676745 -1.03676745 -1.03676745]] 
+
+Scanning_direction_Waypoint_Distance_c3 1.0696569046796156 
+Waypoint 91 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[ 0.26320934  0.26320934  0.26320934  0.26320934  0.26320934  0.26320934
+   0.26320934  0.26320934  0.26320934  0.26320934]
+ [-1.03676745 -1.03676745 -1.03676745 -1.03676745 -1.03676745 -1.03676745
+  -1.03676745 -1.03676745 -1.03676745 -1.03676745]] 
+
+Scanning_direction_Waypoint_Distance_c3 1.0696569046796156 
+Waypoint 92 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[ 0.26320934  0.26320934  0.26320934  0.26320934  0.26320934  0.26320934
+   0.26320934  0.26320934  0.26320934  0.26320934]
+ [-1.03676745 -1.03676745 -1.03676745 -1.03676745 -1.03676745 -1.03676745
+  -1.03676745 -1.03676745 -1.03676745 -1.03676745]] 
+
+Scanning_direction_Waypoint_Distance_c3 1.0696569046796156 
+Waypoint 93 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[ 0.26320934  0.26320934  0.26320934  0.26320934  0.26320934  0.26320934
+   0.26320934  0.26320934  0.26320934  0.26320934]
+ [-1.03676745 -1.03676745 -1.03676745 -1.03676745 -1.03676745 -1.03676745
+  -1.03676745 -1.03676745 -1.03676745 -1.03676745]] 
+
+Scanning_direction_Waypoint_Distance_c3 1.0696569046796156 
+Waypoint 94 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[ 0.26320934  0.26320934  0.26320934  0.26320934  0.26320934  0.26320934
+   0.26320934  0.26320934  0.26320934  0.26320934]
+ [-1.03676745 -1.03676745 -1.03676745 -1.03676745 -1.03676745 -1.03676745
+  -1.03676745 -1.03676745 -1.03676745 -1.03676745]] 
+
+Scanning_direction_Waypoint_Distance_c3 1.0696569046796156 
+Waypoint 95 
+
+rect (251, 0, 26, 21) 
+
+previous_blob_personposition [0.2611339510792625, -13.442234167869596] 
+
+coverage 33.5741513871599 
+
+new_leader_index 5 
+
+blobposition [17.311671809004324, 0.6885324014944901] 
+
+integralposition_centre [-0.6711966288854904, -4.394287290685754] 
+
+integral_startposition [-17.45827232246544, -21.181362984265704] 
+
+currentblob_personposition [-0.14660051346111658, -20.492830582771212] 
+
+dronemeanpos [-2.522899358639638, -4.900894983731833] 
+
+Scanning_direction 171.33448245718654 
+
+Distancetravelledbyperson 7.062376172323133 
+
+Scanning_direction_Waypoint_Distance_c3 7.315799719695584 
+Waypoint 96 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[ 0.1611608   0.1611608   0.1611608   0.1611608   0.1611608   0.1611608
+   0.1611608   0.1611608   0.1611608   0.1611608 ]
+ [-1.05744649 -1.05744649 -1.05744649 -1.05744649 -1.05744649 -1.05744649
+  -1.05744649 -1.05744649 -1.05744649 -1.05744649]] 
+
+Scanning_direction_Waypoint_Distance_c3 1.0696569046796156 
+Waypoint 97 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[ 0.1611608   0.1611608   0.1611608   0.1611608   0.1611608   0.1611608
+   0.1611608   0.1611608   0.1611608   0.1611608 ]
+ [-1.05744649 -1.05744649 -1.05744649 -1.05744649 -1.05744649 -1.05744649
+  -1.05744649 -1.05744649 -1.05744649 -1.05744649]] 
+
+Scanning_direction_Waypoint_Distance_c3 1.0696569046796156 
+Waypoint 98 
+
+rect (316, 14, 18, 24) 
+
+previous_blob_personposition [-0.14660051346111658, -20.492830582771212] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [20.71972504497308, 1.6575780035978467] 
+
+integralposition_centre [-3.9516961700630833, -8.202566764639698] 
+
+integral_startposition [-20.272464205488035, -24.52333480006465] 
+
+currentblob_personposition [0.4472608394850468, -22.8657567964668] 
+
+dronemeanpos [-2.6073733307092057, -7.2450385484797355] 
+
+Scanning_direction 168.93542623368756 
+
+Distancetravelledbyperson 2.4461091803447226 
+
+Scanning_direction_Waypoint_Distance_c3 2.8004194028377936 
+Waypoint 99 
+
+rect (361, 12, 29, 29) 
+
+previous_blob_personposition [0.4472608394850468, -22.8657567964668] 
+
+coverage 34.50676670346989 
+
+new_leader_index 3 
+
+blobposition [25.307208783501846, 1.7859947610194378] 
+
+integralposition_centre [-7.316854775550706, -8.66761233498401] 
+
+integral_startposition [-24.570238127285652, -25.920995686718957] 
+
+currentblob_personposition [0.7369706562161937, -24.13500092569952] 
+
+dronemeanpos [-2.8147480907960634, -7.542418672035728] 
+
+Scanning_direction 167.91790341844094 
+
+Distancetravelledbyperson 1.3018880280201188 
+
+Scanning_direction_Waypoint_Distance_c3 1.5396642638162876 
+Waypoint 100 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[ 0.32227178  0.32227178  0.32227178  0.32227178  0.32227178  0.32227178
+   0.32227178  0.32227178  0.32227178  0.32227178]
+ [-1.50555868 -1.50555868 -1.50555868 -1.50555868 -1.50555868 -1.50555868
+  -1.50555868 -1.50555868 -1.50555868 -1.50555868]] 
+
+Scanning_direction_Waypoint_Distance_c3 1.5396642638162876 
+Waypoint 101 
+
+rect (116, 1, 20, 28) 
+
+previous_blob_personposition [0.7369706562161937, -24.13500092569952] 
+
+coverage 39.16984328501988 
+
+new_leader_index 8 
+
+blobposition [9.639453620922861, 1.1475540024908168] 
+
+integralposition_centre [9.405859221617451, -7.917555004389666] 
+
+integral_startposition [-10.179062420892489, -27.502476646899606] 
+
+currentblob_personposition [-0.5396087999696277, -26.354922644408788] 
+
+dronemeanpos [-2.974900974997433, -9.43332115321336] 
+
+Scanning_direction 171.81044192672488 
+
+Distancetravelledbyperson 2.560802129246382 
+
+Scanning_direction_Waypoint_Distance_c3 2.8647314901634595 
+Waypoint 102 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[ 0.21932294  0.21932294  0.21932294  0.21932294  0.21932294  0.21932294
+   0.21932294  0.21932294  0.21932294  0.21932294]
+ [-1.52396309 -1.52396309 -1.52396309 -1.52396309 -1.52396309 -1.52396309
+  -1.52396309 -1.52396309 -1.52396309 -1.52396309]] 
+
+Scanning_direction_Waypoint_Distance_c3 1.5396642638162876 
+Waypoint 103 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[ 0.21932294  0.21932294  0.21932294  0.21932294  0.21932294  0.21932294
+   0.21932294  0.21932294  0.21932294  0.21932294]
+ [-1.52396309 -1.52396309 -1.52396309 -1.52396309 -1.52396309 -1.52396309
+  -1.52396309 -1.52396309 -1.52396309 -1.52396309]] 
+
+Scanning_direction_Waypoint_Distance_c3 1.5396642638162876 
+Waypoint 104 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[ 0.21932294  0.21932294  0.21932294  0.21932294  0.21932294  0.21932294
+   0.21932294  0.21932294  0.21932294  0.21932294]
+ [-1.52396309 -1.52396309 -1.52396309 -1.52396309 -1.52396309 -1.52396309
+  -1.52396309 -1.52396309 -1.52396309 -1.52396309]] 
+
+Scanning_direction_Waypoint_Distance_c3 1.5396642638162876 
+Waypoint 105 
+
+rect (232, 12, 27, 26) 
+
+previous_blob_personposition [-0.5396087999696277, -26.354922644408788] 
+
+coverage 33.5741513871599 
+
+new_leader_index 5 
+
+blobposition [16.09854329208546, 1.639362860701167] 
+
+integralposition_centre [1.0133621112810125, -14.695537944552102] 
+
+integral_startposition [-15.773713582298939, -31.48261363813205] 
+
+currentblob_personposition [0.3248297097865205, -29.843250777430885] 
+
+dronemeanpos [-1.205375582032951, -14.080630042322252] 
+
+Scanning_direction 174.45520928283975 
+
+Distancetravelledbyperson 3.5938401607170656 
+
+Scanning_direction_Waypoint_Distance_c3 3.8187441974731153 
+Waypoint 106 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[ 0.14876832  0.14876832  0.14876832  0.14876832  0.14876832  0.14876832
+   0.14876832  0.14876832  0.14876832  0.14876832]
+ [-1.53246012 -1.53246012 -1.53246012 -1.53246012 -1.53246012 -1.53246012
+  -1.53246012 -1.53246012 -1.53246012 -1.53246012]] 
+
+Scanning_direction_Waypoint_Distance_c3 1.5396642638162876 
+Waypoint 107 
+
+rect (223, 22, 22, 33) 
+
+previous_blob_personposition [0.3248297097865205, -29.843250777430885] 
+
+coverage 33.5741513871599 
+
+new_leader_index 5 
+
+blobposition [15.344436376162923, 2.5246188054797973] 
+
+integralposition_centre [1.2399185560649468, -17.514077729269072] 
+
+integral_startposition [-15.547157137515004, -34.301153422849026] 
+
+currentblob_personposition [-0.20272076135208117, -31.77653461736923] 
+
+dronemeanpos [-0.9641723047495301, -16.099619964755956] 
+
+Scanning_direction 177.21924241644763 
+
+Distancetravelledbyperson 2.003970036044778 
+
+Scanning_direction_Waypoint_Distance_c3 2.2446708356029466 
+Waypoint 108 
+
+rect (211, 44, 24, 29) 
+
+previous_blob_personposition [-0.20272076135208117, -31.77653461736923] 
+
+coverage 33.5741513871599 
+
+new_leader_index 5 
+
+blobposition [14.62311671745441, 3.8361090940407307] 
+
+integralposition_centre [2.1398598098639643, -19.74651882155008] 
+
+integral_startposition [-14.647215883715987, -36.533594515130034] 
+
+currentblob_personposition [-0.0240991662615766, -32.697485421089304] 
+
+dronemeanpos [-0.535258095876841, -16.946573923563353] 
+
+Scanning_direction 178.14125206077256 
+
+Distancetravelledbyperson 0.9381130300264079 
+
+Scanning_direction_Waypoint_Distance_c3 1.2340047184467406 
+Waypoint 109 
+
+rect (222, 82, 28, 30) 
+
+previous_blob_personposition [-0.0240991662615766, -32.697485421089304] 
+
+coverage 33.5741513871599 
+
+new_leader_index 5 
+
+blobposition [15.475585405019016, 6.360727899520528] 
+
+integralposition_centre [1.348942805690818, -22.150471235614024] 
+
+integral_startposition [-15.438132887889132, -38.93754692919397] 
+
+currentblob_personposition [0.037452517129883844, -32.576819029673445] 
+
+dronemeanpos [-0.39278539714426247, -17.78731387826494] 
+
+Scanning_direction 178.33369229166675 
+
+Distancetravelledbyperson 0.13545843549092113 
+
+Scanning_direction_Waypoint_Distance_c3 0.37100004621165106 
+Waypoint 110 
+
+rect (230, 126, 24, 23) 
+
+previous_blob_personposition [0.037452517129883844, -32.576819029673445] 
+
+coverage 33.5741513871599 
+
+new_leader_index 5 
+
+blobposition [15.869032491587298, 9.016495733856418] 
+
+integralposition_centre [0.9197379171426568, -24.46645228081667] 
+
+integral_startposition [-15.867337776437294, -41.25352797439662] 
+
+currentblob_personposition [0.001694715150003745, -32.2370322405402] 
+
+dronemeanpos [-0.0896441688806993, -18.596234802933907] 
+
+Scanning_direction 179.61635275564853 
+
+Distancetravelledbyperson 0.34166311254203446 
+
+Scanning_direction_Waypoint_Distance_c3 0.6274273170303606 
+Waypoint 111
+
+rect (246, 135, 23, 24) 
+
+previous_blob_personposition [0.001694715150003745, -32.2370322405402] 
+
+coverage 33.5741513871599 
+
+new_leader_index 5 
+
+blobposition [16.885437465222022, 9.639453620922863] 
+
+integralposition_centre [-0.035746396934483886, -24.96555357246906] 
+
+integral_startposition [-16.822822090514435, -41.75262926604901] 
+
+currentblob_personposition [0.06261537470758682, -32.11317564512615] 
+
+dronemeanpos [0.0777816422452279, -19.717239617119674] 
+
+Scanning_direction 180.0701006108228 
+
+Distancetravelledbyperson 0.1380281963531061 
+
+Scanning_direction_Waypoint_Distance_c3 0.338349921239403 
+Waypoint 112 
+
+rect (280, 89, 25, 26) 
+
+previous_blob_personposition [0.06261537470758682, -32.11317564512615] 
+
+coverage 34.50676670346989 
+
+new_leader_index 3 
+
+blobposition [19.71333839993153, 6.874394929206892] 
+
+integralposition_centre [-2.369462809635438, -22.040438988075273] 
+
+integral_startposition [-19.622846161370383, -39.29382233981022] 
+
+currentblob_personposition [0.09049223856114708, -32.419427410603326] 
+
+dronemeanpos [0.0892957058282029, -20.541783578194522] 
+
+Scanning_direction 179.99422812500677 
+
+Distancetravelledbyperson 0.30751790743987323 
+
+Scanning_direction_Waypoint_Distance_c3 0.5050073076450874 
+Waypoint 113 
+
+rect (247, 16, 23, 25) 
+
+previous_blob_personposition [0.09049223856114708, -32.419427410603326] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [16.480150535770896, 1.8169605039437935] 
+
+integralposition_centre [-0.22282555398775492, -18.236523186385767] 
+
+integral_startposition [-16.543593589412705, -34.557291221810715] 
+
+currentblob_personposition [-0.06344305364180869, -32.74033071786692] 
+
+dronemeanpos [-0.21350204519270832, -21.382212122767726] 
+
+Scanning_direction 179.2430747540984 
+
+Distancetravelledbyperson 0.35591432508164184 
+
+Scanning_direction_Waypoint_Distance_c3 0.6289909755738583 
+Waypoint 114 
+
+rect (243, 110, 28, 28) 
+
+previous_blob_personposition [-0.06344305364180869, -32.74033071786692] 
+
+coverage 33.5741513871599 
+
+new_leader_index 5 
+
+blobposition [16.852650208007997, 8.131239789077789] 
+
+integralposition_centre [0.08614002446973228, -23.82918420186518] 
+
+integral_startposition [-16.70093566911022, -40.616259895445125] 
+
+currentblob_personposition [0.15171453889777808, -32.48502010636734] 
+
+dronemeanpos [0.15056490125961766, -20.241126754770498] 
+
+Scanning_direction 179.99462022556463 
+
+Distancetravelledbyperson 0.3338806642675209 
+
+Scanning_direction_Waypoint_Distance_c3 0.544911093198721 
+Waypoint 115 
+
+rect (265, 139, 26, 24) 
+
+previous_blob_personposition [0.15171453889777808, -32.48502010636734] 
+
+coverage 33.5741513871599 
+
+new_leader_index 5 
+
+blobposition [18.229715010996976, 9.90175167863505] 
+
+integralposition_centre [-1.3466877948981066, -25.3785029662046] 
+
+integral_startposition [-18.133763488478056, -42.16557865978455] 
+
+currentblob_personposition [0.09595152251892003, -32.2638269811495] 
+
+dronemeanpos [-0.20233988397405014, -20.72716039516353] 
+
+Scanning_direction 178.51889352283038 
+
+Distancetravelledbyperson 0.22811381509961795 
+
+Scanning_direction_Waypoint_Distance_c3 0.4839761223999306 
+Waypoint 116 
+
+rect (282, 156, 24, 26) 
+
+previous_blob_personposition [0.09595152251892003, -32.2638269811495] 
+
+coverage 33.5741513871599 
+
+new_leader_index 5 
+
+blobposition [19.278907241845726, 11.082092938339889] 
+
+integralposition_centre [-2.348457825061066, -26.46858738448771] 
+
+integral_startposition [-19.135533518641015, -43.255663078067656] 
+
+currentblob_personposition [0.14337372320471076, -32.173570139727765] 
+
+dronemeanpos [-0.33919417482859443, -21.47023160589657] 
+
+Scanning_direction 177.41852579121917 
+
+Distancetravelledbyperson 0.10195666992066522 
+
+Scanning_direction_Waypoint_Distance_c3 0.4082832406039683 
+Waypoint 117 
+
+rect (252, 16, 23, 22) 
+
+previous_blob_personposition [0.14337372320471076, -32.173570139727765] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [16.79891553646279, 1.7213310037362253] 
+
+integralposition_centre [-0.4715758097339063, -18.235089569241964] 
+
+integral_startposition [-16.792343845158857, -34.55585760466691] 
+
+currentblob_personposition [0.006571691303932425, -32.83452660093069] 
+
+dronemeanpos [-0.7876388647414186, -22.795699394593044] 
+
+Scanning_direction 175.47653043381257 
+
+Distancetravelledbyperson 0.6749653617320455 
+
+Scanning_direction_Waypoint_Distance_c3 1.0056846764154075 
+Waypoint 118 
+
+rect (267, 144, 23, 21) 
+
+previous_blob_personposition [0.006571691303932425, -32.83452660093069] 
+
+coverage 33.5741513871599 
+
+new_leader_index 5 
+
+blobposition [18.262502268211, 10.131262479133213] 
+
+integralposition_centre [-1.4586054504395836, -25.75319134039497] 
+
+integral_startposition [-18.245681144019535, -42.54026703397492] 
+
+currentblob_personposition [0.016821124191466197, -32.40900455484171] 
+
+dronemeanpos [-0.902501734445298, -21.209663996700293] 
+
+Scanning_direction 175.30726958516783 
+
+Distancetravelledbyperson 0.4256454658307393 
+
+Scanning_direction_Waypoint_Distance_c3 0.7055951985588285 
+Waypoint 119 
+
+rect (230, 155, 21, 20) 
+
+previous_blob_personposition [0.016821124191466197, -32.40900455484171] 
+
+coverage 33.5741513871599 
+
+new_leader_index 5 
+
+blobposition [15.770670719945228, 10.819794880627702] 
+
+integralposition_centre [0.8581676058155869, -26.461520899617] 
+
+integral_startposition [-15.928908087764363, -43.24859659319695] 
+
+currentblob_personposition [-0.1582373678191349, -32.428801712569246] 
+
+dronemeanpos [-0.906674932102403, -21.583758079914432] 
+
+Scanning_direction 176.0521662066457 
+
+Distancetravelledbyperson 0.176174354203768 
+
+Scanning_direction_Waypoint_Distance_c3 0.38938582712886005 
+Waypoint 120 
+
+rect (199, 173, 25, 21) 
+
+previous_blob_personposition [-0.1582373678191349, -32.428801712569246] 
+
+coverage 33.5741513871599 
+
+new_leader_index 5 
+
+blobposition [13.869009801531874, 12.032923397546567] 
+
+integralposition_centre [2.76337493926395, -27.418651107720006] 
+
+integral_startposition [-14.023700754316, -44.20572680129996] 
+
+currentblob_personposition [-0.1546909527841258, -32.17280340375339] 
+
+dronemeanpos [-0.5355347722457896, -22.636739527580197] 
+
+Scanning_direction 177.71298161824018 
+
+Distancetravelledbyperson 0.2560228723692049 
+
+Scanning_direction_Waypoint_Distance_c3 0.49326405355548475 
+Waypoint 121 
+
+rect (187, 207, 21, 21) 
+
+previous_blob_personposition [-0.1546909527841258, -32.17280340375339] 
+
+coverage 33.5741513871599 
+
+new_leader_index 5 
+
+blobposition [12.95096659953922, 14.262456888100154] 
+
+integralposition_centre [3.5513671721997313, -29.656374514644778] 
+
+integral_startposition [-13.23570852138022, -46.44345020822473] 
+
+currentblob_personposition [-0.28474192184100033, -32.18099332012458] 
+
+dronemeanpos [-0.14127620888398215, -23.4674688404069] 
+
+Scanning_direction 180.94327355376237 
+
+Distancetravelledbyperson 0.1303085925133073 
+
+Scanning_direction_Waypoint_Distance_c3 0.4386069434552722 
+Waypoint 122
+
+rect (220, 0, 24, 21) 
+
+previous_blob_personposition [-0.28474192184100033, -32.18099332012458] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [14.790696032103861, 0.6694065014529765] 
+
+integralposition_centre [1.3612670104669262, -17.201377068910336] 
+
+integral_startposition [-14.959501024958024, -33.52214510433529] 
+
+currentblob_personposition [-0.16880499285416306, -32.85273860288231] 
+
+dronemeanpos [0.8436546661134887, -24.948470304286495] 
+
+Scanning_direction 187.2992835297553 
+
+Distancetravelledbyperson 0.6816766802599058 
+
+Scanning_direction_Waypoint_Distance_c3 0.9508513575373364 
+Waypoint 123 
+
+rect (153, 202, 26, 24) 
+
+previous_blob_personposition [-0.16880499285416306, -32.85273860288231] 
+
+coverage 33.5741513871599 
+
+new_leader_index 5 
+
+blobposition [10.885369395055749, 14.03294608760199] 
+
+integralposition_centre [5.556682088881429, -29.34671357754698] 
+
+integral_startposition [-11.230393604698522, -46.13378927112693] 
+
+currentblob_personposition [-0.3450242096427729, -32.10084318352494] 
+
+dronemeanpos [1.0628163895262794, -23.380640023185023] 
+
+Scanning_direction 189.1710318799884 
+
+Distancetravelledbyperson 0.7722693403315929 
+
+Scanning_direction_Waypoint_Distance_c3 1.098262678805427 
+Waypoint 124 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[-0.17504339 -0.17504339 -0.17504339 -0.17504339 -0.17504339 -0.17504339
+  -0.17504339 -0.17504339 -0.17504339 -0.17504339]
+ [-1.08422356 -1.08422356 -1.08422356 -1.08422356 -1.08422356 -1.08422356
+  -1.08422356 -1.08422356 -1.08422356 -1.08422356]] 
+
+Scanning_direction_Waypoint_Distance_c3 1.098262678805427 
+Waypoint 125 
+
+rect (220, 45, 26, 25) 
+
+previous_blob_personposition [-0.3450242096427729, -32.10084318352494] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [14.854449032242242, 3.665797507956776] 
+
+integralposition_centre [1.2493522730560591, -20.13457619403112] 
+
+integral_startposition [-15.071415762368892, -36.455344229456074] 
+
+currentblob_personposition [-0.21696673012665002, -32.7895467214993] 
+
+dronemeanpos [1.8609261501460928, -25.468756007054225] 
+
+Scanning_direction 195.84577066825915 
+
+Distancetravelledbyperson 0.7005078738161521 
+
+Scanning_direction_Waypoint_Distance_c3 0.9965830222958164 
+Waypoint 126
+
+rect (229, 33, 23, 26) 
+
+previous_blob_personposition [-0.21696673012665002, -32.7895467214993] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [15.33259653328008, 2.932638006365421] 
+
+integralposition_centre [0.8153514585443004, -19.50400683510149] 
+
+integral_startposition [-15.50541657688065, -35.82477487052644] 
+
+currentblob_personposition [-0.17282004360057002, -32.89213686416102] 
+
+dronemeanpos [1.7322822053218452, -24.551191155955213] 
+
+Scanning_direction 192.86586424198038 
+
+Distancetravelledbyperson 0.11168557338610777 
+
+Scanning_direction_Waypoint_Distance_c3 0.3886132538325643 
+Waypoint 127 
+
+rect (144, 172, 26, 27) 
+
+previous_blob_personposition [-0.17282004360057002, -32.89213686416102] 
+
+coverage 33.5741513871599 
+
+new_leader_index 5 
+
+blobposition [10.29519876520333, 12.16407242640266] 
+
+integralposition_centre [6.086734790107074, -27.470265430971956] 
+
+integral_startposition [-10.700340903472878, -44.25734112455191] 
+
+currentblob_personposition [-0.40514213826954837, -32.093268698149245] 
+
+dronemeanpos [1.9854493335867673, -23.64913258773031] 
+
+Scanning_direction 195.8071728223589 
+
+Distancetravelledbyperson 0.8319638828328991 
+
+Scanning_direction_Waypoint_Distance_c3 1.0753560795732897 
+Waypoint 128 
+
+rect (170, 14, 24, 25) 
+
+previous_blob_personposition [-0.40514213826954837, -32.093268698149245] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [11.603046025184927, 1.6894545036670359] 
+
+integralposition_centre [4.336936138831318, -18.357651064260423] 
+
+integral_startposition [-11.983831896593633, -34.67841909968537] 
+
+currentblob_personposition [-0.38078587140870646, -32.988964596018334] 
+
+dronemeanpos [2.49670177206198, -24.315963403886315] 
+
+Scanning_direction 198.3545698674303 
+
+Distancetravelledbyperson 0.8960269913316844 
+
+Scanning_direction_Waypoint_Distance_c3 1.175866393113491 
+Waypoint 129 
+
+rect (165, 155, 26, 24) 
+
+previous_blob_personposition [-0.38078587140870646, -32.988964596018334] 
+
+coverage 33.5741513871599 
+
+new_leader_index 5 
+
+blobposition [11.67226356819231, 10.950943909483795] 
+
+integralposition_centre [4.872323334212967, -26.2546487033041] 
+
+integral_startposition [-11.914752359366982, -43.04172439688405] 
+
+currentblob_personposition [-0.24248879117467226, -32.09078048740025] 
+
+dronemeanpos [2.5128306297152534, -22.821746794953842] 
+
+Scanning_direction 196.5551446387081 
+
+Distancetravelledbyperson 0.9087688239455168 
+
+Scanning_direction_Waypoint_Distance_c3 1.0890359635969489 
+Waypoint 130 
+
+rect (175, 172, 25, 24) 
+
+previous_blob_personposition [-0.24248879117467226, -32.09078048740025] 
+
+coverage 33.5741513871599 
+
+new_leader_index 5 
+
+blobposition [12.295221455258753, 12.06571065476059] 
+
+integralposition_centre [4.219776511213462, -27.558861785911855] 
+
+integral_startposition [-12.567299182366488, -44.34593747949181] 
+
+currentblob_personposition [-0.27207772710773526, -32.280226824731216] 
+
+dronemeanpos [2.7337230459430693, -23.84911673807472] 
+
+Scanning_direction 199.6218144382802 
+
+Distancetravelledbyperson 0.19174310902290095 
+
+Scanning_direction_Waypoint_Distance_c3 0.4408106082466188 
+Waypoint 131 
+
+rect (133, 29, 20, 21) 
+
+previous_blob_personposition [-0.27207772710773526, -32.280226824731216] 
+
+coverage 32.6415360708499 
+
+new_leader_index 4 
+
+blobposition [9.116679019788156, 2.5182435054659593] 
+
+integralposition_centre [6.657781513554966, -19.02267865298684] 
+
+integral_startposition [-9.662986521869986, -35.34344668841179] 
+
+currentblob_personposition [-0.5463075020818291, -32.82520318294583] 
+
+dronemeanpos [3.340471268995455, -24.99436734725777] 
+
+Scanning_direction 206.39717111440342 
+
+Distancetravelledbyperson 0.6100829455862564 
+
+Scanning_direction_Waypoint_Distance_c3 0.8905416509034872 
+Waypoint 132 
+
+rect (146, 174, 26, 25) 
+
+previous_blob_personposition [-0.5463075020818291, -32.82520318294583] 
+
+coverage 33.5741513871599 
+
+new_leader_index 5 
+
+blobposition [10.426347794059422, 12.229646940830706] 
+
+integralposition_centre [6.0272407799710175, -27.583623704452112] 
+
+integral_startposition [-10.759834913608934, -44.37069939803206] 
+
+currentblob_personposition [-0.3334871195495115, -32.141052457201354] 
+
+dronemeanpos [3.4672010207219346, -23.679964167828203] 
+
+Scanning_direction 204.18943177033313 
+
+Distancetravelledbyperson 0.7164877743254879 
+
+Scanning_direction_Waypoint_Distance_c3 1.0112365534235015 
+Waypoint 133 
+
+No convergence 
+
+No convergence 
+
+Scanning_direction [[-0.41435902 -0.41435902 -0.41435902 -0.41435902 -0.41435902 -0.41435902
+  -0.41435902 -0.41435902 -0.41435902 -0.41435902]
+ [-0.92244565 -0.92244565 -0.92244565 -0.92244565 -0.92244565 -0.92244565
+  -0.92244565 -0.92244565 -0.92244565 -0.92244565]] 
+
+Scanning_direction_Waypoint_Distance_c3 1.0112365534235015
