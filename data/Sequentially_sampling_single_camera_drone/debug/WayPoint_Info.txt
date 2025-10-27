@@ -1,0 +1,5275 @@
+WayPoint_Count 1 
+
+Leader Index 0 
+
+Leader Contour 16.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[-12.] 
+
+Mean Previous Drone Positions [0.]_[-12.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[-12.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[-10.] 
+
+drones next lat [48.33574604] drones next lon [14.32664518] 
+WayPoint_Count 2 
+
+Leader Index 0 
+
+Leader Contour 18.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[-10.] 
+
+Mean Previous Drone Positions [0.]_[-10.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[-10.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[-8.] 
+
+drones next lat [48.33576403] drones next lon [14.32664495] 
+WayPoint_Count 3 
+
+Leader Index 0 
+
+Leader Contour 9.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[-8.] 
+
+Mean Previous Drone Positions [0.]_[-8.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[-8.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[-6.] 
+
+drones next lat [48.33578203] drones next lon [14.32664471] 
+WayPoint_Count 4 
+
+Leader Index 0 
+
+Leader Contour 1.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[-6.] 
+
+Mean Previous Drone Positions [0.]_[-6.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[-6.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[-4.] 
+
+drones next lat [48.33580002] drones next lon [14.32664447] 
+WayPoint_Count 5 
+
+Leader Index 0 
+
+Leader Contour 19.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[-4.] 
+
+Mean Previous Drone Positions [0.]_[-4.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[-4.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[-2.] 
+
+drones next lat [48.33581801] drones next lon [14.32664424] 
+WayPoint_Count 6 
+
+Leader Index 0 
+
+Leader Contour 22.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[-2.] 
+
+Mean Previous Drone Positions [0.]_[-2.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[-2.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[0.] 
+
+drones next lat [48.335836] drones next lon [14.326644] 
+WayPoint_Count 7 
+
+Leader Index 0 
+
+Leader Contour 8.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[0.] 
+
+Mean Previous Drone Positions [0.]_[0.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[0.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[2.] 
+
+drones next lat [48.33585399] drones next lon [14.32664376] 
+WayPoint_Count 8 
+
+Leader Index 0 
+
+Leader Contour 12.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[2.] 
+
+Mean Previous Drone Positions [0.]_[2.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[2.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[4.] 
+
+drones next lat [48.33587199] drones next lon [14.32664353] 
+WayPoint_Count 9 
+
+Leader Index 0 
+
+Leader Contour 19.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[4.] 
+
+Mean Previous Drone Positions [0.]_[4.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[4.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[6.] 
+
+drones next lat [48.33588998] drones next lon [14.32664329] 
+WayPoint_Count 10 
+
+Leader Index 0 
+
+Leader Contour 26.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[6.] 
+
+Mean Previous Drone Positions [0.]_[6.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[6.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[8.] 
+
+drones next lat [48.33590797] drones next lon [14.32664305] 
+WayPoint_Count 11 
+
+Leader Index 0 
+
+Leader Contour 22.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[8.] 
+
+Mean Previous Drone Positions [0.]_[8.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[8.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[10.] 
+
+drones next lat [48.33592596] drones next lon [14.32664282] 
+WayPoint_Count 12 
+
+Leader Index 0 
+
+Leader Contour 18.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[10.] 
+
+Mean Previous Drone Positions [0.]_[10.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[10.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[12.] 
+
+drones next lat [48.33594395] drones next lon [14.32664258] 
+WayPoint_Count 13 
+
+Leader Index 0 
+
+Leader Contour 31.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[12.] 
+
+Mean Previous Drone Positions [0.]_[12.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[12.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[14.] 
+
+drones next lat [48.33596195] drones next lon [14.32664234] 
+WayPoint_Count 14 
+
+Leader Index 0 
+
+Leader Contour 14.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[14.] 
+
+Mean Previous Drone Positions [0.]_[14.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[14.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[16.] 
+
+drones next lat [48.33597994] drones next lon [14.3266421] 
+WayPoint_Count 15 
+
+Leader Index 0 
+
+Leader Contour 19.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[16.] 
+
+Mean Previous Drone Positions [0.]_[16.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[16.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[18.] 
+
+drones next lat [48.33599793] drones next lon [14.32664187] 
+WayPoint_Count 16 
+
+Leader Index 0 
+
+Leader Contour 16.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[18.] 
+
+Mean Previous Drone Positions [0.]_[18.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[18.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[20.] 
+
+drones next lat [48.33601592] drones next lon [14.32664163] 
+WayPoint_Count 17 
+
+Leader Index 0 
+
+Leader Contour 7.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[20.] 
+
+Mean Previous Drone Positions [0.]_[20.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[20.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[22.] 
+
+drones next lat [48.33603391] drones next lon [14.32664139] 
+WayPoint_Count 18 
+
+Leader Index 0 
+
+Leader Contour 12.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[22.] 
+
+Mean Previous Drone Positions [0.]_[22.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[22.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[24.] 
+
+drones next lat [48.33605191] drones next lon [14.32664116] 
+WayPoint_Count 19 
+
+Leader Index 0 
+
+Leader Contour 24.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[24.] 
+
+Mean Previous Drone Positions [0.]_[24.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[24.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[26.] 
+
+drones next lat [48.3360699] drones next lon [14.32664092] 
+WayPoint_Count 20 
+
+Leader Index 0 
+
+Leader Contour 7.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[26.] 
+
+Mean Previous Drone Positions [0.]_[26.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[26.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[28.] 
+
+drones next lat [48.33608789] drones next lon [14.32664068] 
+WayPoint_Count 21 
+
+Leader Index 0 
+
+Leader Contour 22.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[28.] 
+
+Mean Previous Drone Positions [0.]_[28.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[28.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[30.] 
+
+drones next lat [48.33610588] drones next lon [14.32664045] 
+WayPoint_Count 22 
+
+Leader Index 0 
+
+Leader Contour 15.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[30.] 
+
+Mean Previous Drone Positions [0.]_[30.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[30.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[32.] 
+
+drones next lat [48.33612388] drones next lon [14.32664021] 
+WayPoint_Count 23 
+
+Leader Index 0 
+
+Leader Contour 4.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[32.] 
+
+Mean Previous Drone Positions [0.]_[32.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[32.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[34.] 
+
+drones next lat [48.33614187] drones next lon [14.32663997] 
+WayPoint_Count 24 
+
+Leader Index 0 
+
+Leader Contour 2 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[34.] 
+
+Mean Previous Drone Positions [0.]_[34.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[34.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[36.] 
+
+drones next lat [48.33615986] drones next lon [14.32663974] 
+WayPoint_Count 25 
+
+Leader Index 0 
+
+Leader Contour 23.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[36.] 
+
+Mean Previous Drone Positions [0.]_[36.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[36.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[38.] 
+
+drones next lat [48.33617785] drones next lon [14.3266395] 
+WayPoint_Count 26 
+
+Leader Index 0 
+
+Leader Contour 25.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[38.] 
+
+Mean Previous Drone Positions [0.]_[38.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[38.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[40.] 
+
+drones next lat [48.33619584] drones next lon [14.32663926] 
+WayPoint_Count 27 
+
+Leader Index 0 
+
+Leader Contour 26.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[40.] 
+
+Mean Previous Drone Positions [0.]_[40.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[40.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[42.] 
+
+drones next lat [48.33621384] drones next lon [14.32663902] 
+WayPoint_Count 28 
+
+Leader Index 0 
+
+Leader Contour 13.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[42.] 
+
+Mean Previous Drone Positions [0.]_[42.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[42.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[44.] 
+
+drones next lat [48.33623183] drones next lon [14.32663879] 
+WayPoint_Count 29 
+
+Leader Index 0 
+
+Leader Contour 0.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[44.] 
+
+Mean Previous Drone Positions [0.]_[44.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[44.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[46.] 
+
+drones next lat [48.33624982] drones next lon [14.32663855] 
+WayPoint_Count 30 
+
+Leader Index 0 
+
+Leader Contour 11.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[46.] 
+
+Mean Previous Drone Positions [0.]_[46.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[46.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[48.] 
+
+drones next lat [48.33626781] drones next lon [14.32663831] 
+WayPoint_Count 31 
+
+Leader Index 0 
+
+Leader Contour 2 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[48.] 
+
+Mean Previous Drone Positions [0.]_[48.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[48.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[50.] 
+
+drones next lat [48.3362858] drones next lon [14.32663808] 
+WayPoint_Count 32 
+
+Leader Index 0 
+
+Leader Contour 17.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[50.] 
+
+Mean Previous Drone Positions [0.]_[50.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[50.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[52.] 
+
+drones next lat [48.3363038] drones next lon [14.32663784] 
+WayPoint_Count 33 
+
+Leader Index 0 
+
+Leader Contour 8.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[52.] 
+
+Mean Previous Drone Positions [0.]_[52.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[52.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[54.] 
+
+drones next lat [48.33632179] drones next lon [14.3266376] 
+WayPoint_Count 34 
+
+Leader Index 0 
+
+Leader Contour 12.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[54.] 
+
+Mean Previous Drone Positions [0.]_[54.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[54.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[56.] 
+
+drones next lat [48.33633978] drones next lon [14.32663737] 
+WayPoint_Count 35 
+
+Leader Index 0 
+
+Leader Contour 10.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[56.] 
+
+Mean Previous Drone Positions [0.]_[56.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[56.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[58.] 
+
+drones next lat [48.33635777] drones next lon [14.32663713] 
+WayPoint_Count 36 
+
+Leader Index 0 
+
+Leader Contour 14.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[58.] 
+
+Mean Previous Drone Positions [0.]_[58.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[58.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[60.] 
+
+drones next lat [48.33637576] drones next lon [14.32663689] 
+WayPoint_Count 37 
+
+Leader Index 0 
+
+Leader Contour 14.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[60.] 
+
+Mean Previous Drone Positions [0.]_[60.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[60.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[62.] 
+
+drones next lat [48.33639376] drones next lon [14.32663666] 
+WayPoint_Count 38 
+
+Leader Index 0 
+
+Leader Contour 11.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[62.] 
+
+Mean Previous Drone Positions [0.]_[62.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[62.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[64.] 
+
+drones next lat [48.33641175] drones next lon [14.32663642] 
+WayPoint_Count 39 
+
+Leader Index 0 
+
+Leader Contour 8.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[64.] 
+
+Mean Previous Drone Positions [0.]_[64.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[64.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[66.] 
+
+drones next lat [48.33642974] drones next lon [14.32663618] 
+WayPoint_Count 40 
+
+Leader Index 0 
+
+Leader Contour 22.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[66.] 
+
+Mean Previous Drone Positions [0.]_[66.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[66.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[68.] 
+
+drones next lat [48.33644773] drones next lon [14.32663594] 
+WayPoint_Count 41 
+
+Leader Index 0 
+
+Leader Contour 31.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[68.] 
+
+Mean Previous Drone Positions [0.]_[68.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[68.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[70.] 
+
+drones next lat [48.33646572] drones next lon [14.32663571] 
+WayPoint_Count 42 
+
+Leader Index 0 
+
+Leader Contour 16.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[70.] 
+
+Mean Previous Drone Positions [0.]_[70.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[70.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[72.] 
+
+drones next lat [48.33648372] drones next lon [14.32663547] 
+WayPoint_Count 43 
+
+Leader Index 0 
+
+Leader Contour 11.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[72.] 
+
+Mean Previous Drone Positions [0.]_[72.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[72.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[74.] 
+
+drones next lat [48.33650171] drones next lon [14.32663523] 
+WayPoint_Count 44 
+
+Leader Index 0 
+
+Leader Contour 2 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[74.] 
+
+Mean Previous Drone Positions [0.]_[74.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[74.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[76.] 
+
+drones next lat [48.3365197] drones next lon [14.326635] 
+WayPoint_Count 45 
+
+Leader Index 0 
+
+Leader Contour 10.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[76.] 
+
+Mean Previous Drone Positions [0.]_[76.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[76.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[78.] 
+
+drones next lat [48.33653769] drones next lon [14.32663476] 
+WayPoint_Count 46 
+
+Leader Index 0 
+
+Leader Contour 8.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[78.] 
+
+Mean Previous Drone Positions [0.]_[78.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[78.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[80.] 
+
+drones next lat [48.33655569] drones next lon [14.32663452] 
+WayPoint_Count 47 
+
+Leader Index 0 
+
+Leader Contour 18.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[80.] 
+
+Mean Previous Drone Positions [0.]_[80.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[80.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[82.] 
+
+drones next lat [48.33657368] drones next lon [14.32663429] 
+WayPoint_Count 48 
+
+Leader Index 0 
+
+Leader Contour 14.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[82.] 
+
+Mean Previous Drone Positions [0.]_[82.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[82.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[84.] 
+
+drones next lat [48.33659167] drones next lon [14.32663405] 
+WayPoint_Count 49 
+
+Leader Index 0 
+
+Leader Contour 10.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[84.] 
+
+Mean Previous Drone Positions [0.]_[84.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[84.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[86.] 
+
+drones next lat [48.33660966] drones next lon [14.32663381] 
+WayPoint_Count 50 
+
+Leader Index 0 
+
+Leader Contour 0.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[86.] 
+
+Mean Previous Drone Positions [0.]_[86.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[86.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[88.] 
+
+drones next lat [48.33662765] drones next lon [14.32663357] 
+WayPoint_Count 51 
+
+Leader Index 0 
+
+Leader Contour 6.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[88.] 
+
+Mean Previous Drone Positions [0.]_[88.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[88.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[90.] 
+
+drones next lat [48.33664565] drones next lon [14.32663334] 
+WayPoint_Count 52 
+
+Leader Index 0 
+
+Leader Contour 10.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[90.] 
+
+Mean Previous Drone Positions [0.]_[90.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[90.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[92.] 
+
+drones next lat [48.33666364] drones next lon [14.3266331] 
+WayPoint_Count 53 
+
+Leader Index 0 
+
+Leader Contour 7.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[92.] 
+
+Mean Previous Drone Positions [0.]_[92.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[92.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[94.] 
+
+drones next lat [48.33668163] drones next lon [14.32663286] 
+WayPoint_Count 54 
+
+Leader Index 0 
+
+Leader Contour 32.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[94.] 
+
+Mean Previous Drone Positions [0.]_[94.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[94.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[96.] 
+
+drones next lat [48.33669962] drones next lon [14.32663263] 
+WayPoint_Count 55 
+
+Leader Index 0 
+
+Leader Contour 21.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[96.] 
+
+Mean Previous Drone Positions [0.]_[96.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[96.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[98.] 
+
+drones next lat [48.33671761] drones next lon [14.32663239] 
+WayPoint_Count 56 
+
+Leader Index 0 
+
+Leader Contour 3.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[98.] 
+
+Mean Previous Drone Positions [0.]_[98.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[98.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[100.] 
+
+drones next lat [48.33673561] drones next lon [14.32663215] 
+WayPoint_Count 57 
+
+Leader Index 0 
+
+Leader Contour 7.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[100.] 
+
+Mean Previous Drone Positions [0.]_[100.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[100.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[102.] 
+
+drones next lat [48.3367536] drones next lon [14.32663192] 
+WayPoint_Count 58 
+
+Leader Index 0 
+
+Leader Contour 0.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[102.] 
+
+Mean Previous Drone Positions [0.]_[102.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[102.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[104.] 
+
+drones next lat [48.33677159] drones next lon [14.32663168] 
+WayPoint_Count 59 
+
+Leader Index 0 
+
+Leader Contour 21.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[104.] 
+
+Mean Previous Drone Positions [0.]_[104.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[104.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[106.] 
+
+drones next lat [48.33678958] drones next lon [14.32663144] 
+WayPoint_Count 60 
+
+Leader Index 0 
+
+Leader Contour 4.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[106.] 
+
+Mean Previous Drone Positions [0.]_[106.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[106.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[108.] 
+
+drones next lat [48.33680757] drones next lon [14.32663121] 
+WayPoint_Count 61 
+
+Leader Index 0 
+
+Leader Contour 17.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[108.] 
+
+Mean Previous Drone Positions [0.]_[108.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[108.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[110.] 
+
+drones next lat [48.33682557] drones next lon [14.32663097] 
+WayPoint_Count 62 
+
+Leader Index 0 
+
+Leader Contour 8.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[110.] 
+
+Mean Previous Drone Positions [0.]_[110.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[110.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[112.] 
+
+drones next lat [48.33684356] drones next lon [14.32663073] 
+WayPoint_Count 63 
+
+Leader Index 0 
+
+Leader Contour 2 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[112.] 
+
+Mean Previous Drone Positions [0.]_[112.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[112.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[114.] 
+
+drones next lat [48.33686155] drones next lon [14.32663049] 
+WayPoint_Count 64 
+
+Leader Index 0 
+
+Leader Contour 14.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[114.] 
+
+Mean Previous Drone Positions [0.]_[114.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[114.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[116.] 
+
+drones next lat [48.33687954] drones next lon [14.32663026] 
+WayPoint_Count 65 
+
+Leader Index 0 
+
+Leader Contour 2 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[116.] 
+
+Mean Previous Drone Positions [0.]_[116.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[116.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[118.] 
+
+drones next lat [48.33689753] drones next lon [14.32663002] 
+WayPoint_Count 66 
+
+Leader Index 0 
+
+Leader Contour 10.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[118.] 
+
+Mean Previous Drone Positions [0.]_[118.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[118.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[120.] 
+
+drones next lat [48.33691553] drones next lon [14.32662978] 
+WayPoint_Count 67 
+
+Leader Index 0 
+
+Leader Contour 18.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[120.] 
+
+Mean Previous Drone Positions [0.]_[120.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[120.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[122.] 
+
+drones next lat [48.33693352] drones next lon [14.32662955] 
+WayPoint_Count 68 
+
+Leader Index 0 
+
+Leader Contour 9.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[122.] 
+
+Mean Previous Drone Positions [0.]_[122.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[122.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[124.] 
+
+drones next lat [48.33695151] drones next lon [14.32662931] 
+WayPoint_Count 69 
+
+Leader Index 0 
+
+Leader Contour 9.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[124.] 
+
+Mean Previous Drone Positions [0.]_[124.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[124.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[126.] 
+
+drones next lat [48.3369695] drones next lon [14.32662907] 
+WayPoint_Count 70 
+
+Leader Index 0 
+
+Leader Contour 1.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[126.] 
+
+Mean Previous Drone Positions [0.]_[126.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[126.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[128.] 
+
+drones next lat [48.33698749] drones next lon [14.32662884] 
+WayPoint_Count 71 
+
+Leader Index 0 
+
+Leader Contour 13.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[128.] 
+
+Mean Previous Drone Positions [0.]_[128.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[128.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[130.] 
+
+drones next lat [48.33700549] drones next lon [14.3266286] 
+WayPoint_Count 72 
+
+Leader Index 0 
+
+Leader Contour 5.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[130.] 
+
+Mean Previous Drone Positions [0.]_[130.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[130.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[132.] 
+
+drones next lat [48.33702348] drones next lon [14.32662836] 
+WayPoint_Count 73 
+
+Leader Index 0 
+
+Leader Contour 9.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[132.] 
+
+Mean Previous Drone Positions [0.]_[132.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[132.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[134.] 
+
+drones next lat [48.33704147] drones next lon [14.32662813] 
+WayPoint_Count 74 
+
+Leader Index 0 
+
+Leader Contour 28.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[134.] 
+
+Mean Previous Drone Positions [0.]_[134.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[134.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[136.] 
+
+drones next lat [48.33705946] drones next lon [14.32662789] 
+WayPoint_Count 75 
+
+Leader Index 0 
+
+Leader Contour 2.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[136.] 
+
+Mean Previous Drone Positions [0.]_[136.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[136.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[138.] 
+
+drones next lat [48.33707746] drones next lon [14.32662765] 
+WayPoint_Count 76 
+
+Leader Index 0 
+
+Leader Contour 2 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[138.] 
+
+Mean Previous Drone Positions [0.]_[138.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[138.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[140.] 
+
+drones next lat [48.33709545] drones next lon [14.32662741] 
+WayPoint_Count 77 
+
+Leader Index 0 
+
+Leader Contour 9.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[140.] 
+
+Mean Previous Drone Positions [0.]_[140.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[140.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[142.] 
+
+drones next lat [48.33711344] drones next lon [14.32662718] 
+WayPoint_Count 78 
+
+Leader Index 0 
+
+Leader Contour 2 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[142.] 
+
+Mean Previous Drone Positions [0.]_[142.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[142.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[144.] 
+
+drones next lat [48.33713143] drones next lon [14.32662694] 
+WayPoint_Count 79 
+
+Leader Index 0 
+
+Leader Contour 1.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[144.] 
+
+Mean Previous Drone Positions [0.]_[144.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[144.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[146.] 
+
+drones next lat [48.33714942] drones next lon [14.3266267] 
+WayPoint_Count 80 
+
+Leader Index 0 
+
+Leader Contour 24.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[146.] 
+
+Mean Previous Drone Positions [0.]_[146.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[146.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[148.] 
+
+drones next lat [48.33716742] drones next lon [14.32662647] 
+WayPoint_Count 81 
+
+Leader Index 0 
+
+Leader Contour 35.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[148.] 
+
+Mean Previous Drone Positions [0.]_[148.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[148.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[150.] 
+
+drones next lat [48.33718541] drones next lon [14.32662623] 
+WayPoint_Count 82 
+
+Leader Index 0 
+
+Leader Contour 3.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[150.] 
+
+Mean Previous Drone Positions [0.]_[150.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[150.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[152.] 
+
+drones next lat [48.3372034] drones next lon [14.32662599] 
+WayPoint_Count 83 
+
+Leader Index 0 
+
+Leader Contour 1.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[152.] 
+
+Mean Previous Drone Positions [0.]_[152.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[152.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[154.] 
+
+drones next lat [48.33722139] drones next lon [14.32662576] 
+WayPoint_Count 84 
+
+Leader Index 0 
+
+Leader Contour 3.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[154.] 
+
+Mean Previous Drone Positions [0.]_[154.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[154.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[156.] 
+
+drones next lat [48.33723938] drones next lon [14.32662552] 
+WayPoint_Count 85 
+
+Leader Index 0 
+
+Leader Contour 2.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[156.] 
+
+Mean Previous Drone Positions [0.]_[156.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[156.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[158.] 
+
+drones next lat [48.33725738] drones next lon [14.32662528] 
+WayPoint_Count 86 
+
+Leader Index 0 
+
+Leader Contour 2.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[158.] 
+
+Mean Previous Drone Positions [0.]_[158.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[158.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[160.] 
+
+drones next lat [48.33727537] drones next lon [14.32662504] 
+WayPoint_Count 87 
+
+Leader Index 0 
+
+Leader Contour 16.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[160.] 
+
+Mean Previous Drone Positions [0.]_[160.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[160.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[162.] 
+
+drones next lat [48.33729336] drones next lon [14.32662481] 
+WayPoint_Count 88 
+
+Leader Index 0 
+
+Leader Contour 17.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[162.] 
+
+Mean Previous Drone Positions [0.]_[162.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[162.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[164.] 
+
+drones next lat [48.33731135] drones next lon [14.32662457] 
+WayPoint_Count 89 
+
+Leader Index 0 
+
+Leader Contour 5.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[164.] 
+
+Mean Previous Drone Positions [0.]_[164.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[164.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[166.] 
+
+drones next lat [48.33732934] drones next lon [14.32662433] 
+WayPoint_Count 90 
+
+Leader Index 0 
+
+Leader Contour 22.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[166.] 
+
+Mean Previous Drone Positions [0.]_[166.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[166.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[168.] 
+
+drones next lat [48.33734734] drones next lon [14.3266241] 
+WayPoint_Count 91 
+
+Leader Index 0 
+
+Leader Contour 12.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[168.] 
+
+Mean Previous Drone Positions [0.]_[168.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[168.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[170.] 
+
+drones next lat [48.33736533] drones next lon [14.32662386] 
+WayPoint_Count 92 
+
+Leader Index 0 
+
+Leader Contour 7.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[170.] 
+
+Mean Previous Drone Positions [0.]_[170.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[170.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[172.] 
+
+drones next lat [48.33738332] drones next lon [14.32662362] 
+WayPoint_Count 93 
+
+Leader Index 0 
+
+Leader Contour 14.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[172.] 
+
+Mean Previous Drone Positions [0.]_[172.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[172.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[174.] 
+
+drones next lat [48.33740131] drones next lon [14.32662339] 
+WayPoint_Count 94 
+
+Leader Index 0 
+
+Leader Contour 10.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[174.] 
+
+Mean Previous Drone Positions [0.]_[174.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[174.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[176.] 
+
+drones next lat [48.3374193] drones next lon [14.32662315] 
+WayPoint_Count 95 
+
+Leader Index 0 
+
+Leader Contour 10.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[176.] 
+
+Mean Previous Drone Positions [0.]_[176.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[176.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[178.] 
+
+drones next lat [48.3374373] drones next lon [14.32662291] 
+WayPoint_Count 96 
+
+Leader Index 0 
+
+Leader Contour 7.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[178.] 
+
+Mean Previous Drone Positions [0.]_[178.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[178.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[180.] 
+
+drones next lat [48.33745529] drones next lon [14.32662268] 
+WayPoint_Count 97 
+
+Leader Index 0 
+
+Leader Contour 12.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[180.] 
+
+Mean Previous Drone Positions [0.]_[180.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[180.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[182.] 
+
+drones next lat [48.33747328] drones next lon [14.32662244] 
+WayPoint_Count 98 
+
+Leader Index 0 
+
+Leader Contour 34.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[182.] 
+
+Mean Previous Drone Positions [0.]_[182.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[182.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[184.] 
+
+drones next lat [48.33749127] drones next lon [14.3266222] 
+WayPoint_Count 99 
+
+Leader Index 0 
+
+Leader Contour 8.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[184.] 
+
+Mean Previous Drone Positions [0.]_[184.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[184.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[186.] 
+
+drones next lat [48.33750926] drones next lon [14.32662196] 
+WayPoint_Count 100 
+
+Leader Index 0 
+
+Leader Contour 9.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[186.] 
+
+Mean Previous Drone Positions [0.]_[186.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[186.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[188.] 
+
+drones next lat [48.33752726] drones next lon [14.32662173] 
+WayPoint_Count 101 
+
+Leader Index 0 
+
+Leader Contour 15.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[188.] 
+
+Mean Previous Drone Positions [0.]_[188.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[188.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[190.] 
+
+drones next lat [48.33754525] drones next lon [14.32662149] 
+WayPoint_Count 102 
+
+Leader Index 0 
+
+Leader Contour 14.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[190.] 
+
+Mean Previous Drone Positions [0.]_[190.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[190.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[192.] 
+
+drones next lat [48.33756324] drones next lon [14.32662125] 
+WayPoint_Count 103 
+
+Leader Index 0 
+
+Leader Contour 30.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[192.] 
+
+Mean Previous Drone Positions [0.]_[192.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[192.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[194.] 
+
+drones next lat [48.33758123] drones next lon [14.32662102] 
+WayPoint_Count 104 
+
+Leader Index 0 
+
+Leader Contour 15.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[194.] 
+
+Mean Previous Drone Positions [0.]_[194.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[194.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[196.] 
+
+drones next lat [48.33759923] drones next lon [14.32662078] 
+WayPoint_Count 105 
+
+Leader Index 0 
+
+Leader Contour 25.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[196.] 
+
+Mean Previous Drone Positions [0.]_[196.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[196.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[198.] 
+
+drones next lat [48.33761722] drones next lon [14.32662054] 
+WayPoint_Count 106 
+
+Leader Index 0 
+
+Leader Contour 19.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[198.] 
+
+Mean Previous Drone Positions [0.]_[198.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[198.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[200.] 
+
+drones next lat [48.33763521] drones next lon [14.32662031] 
+WayPoint_Count 107 
+
+Leader Index 0 
+
+Leader Contour 5.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[200.] 
+
+Mean Previous Drone Positions [0.]_[200.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[200.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[202.] 
+
+drones next lat [48.3376532] drones next lon [14.32662007] 
+WayPoint_Count 108 
+
+Leader Index 0 
+
+Leader Contour 16.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[202.] 
+
+Mean Previous Drone Positions [0.]_[202.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[202.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[204.] 
+
+drones next lat [48.33767119] drones next lon [14.32661983] 
+WayPoint_Count 109 
+
+Leader Index 0 
+
+Leader Contour 13.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[204.] 
+
+Mean Previous Drone Positions [0.]_[204.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[204.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[206.] 
+
+drones next lat [48.33768919] drones next lon [14.3266196] 
+WayPoint_Count 110 
+
+Leader Index 0 
+
+Leader Contour 2.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[206.] 
+
+Mean Previous Drone Positions [0.]_[206.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[206.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[208.] 
+
+drones next lat [48.33770718] drones next lon [14.32661936] 
+WayPoint_Count 111 
+
+Leader Index 0 
+
+Leader Contour 1.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[208.] 
+
+Mean Previous Drone Positions [0.]_[208.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[208.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[210.] 
+
+drones next lat [48.33772517] drones next lon [14.32661912] 
+WayPoint_Count 112 
+
+Leader Index 0 
+
+Leader Contour 13.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[210.] 
+
+Mean Previous Drone Positions [0.]_[210.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[210.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[212.] 
+
+drones next lat [48.33774316] drones next lon [14.32661888] 
+WayPoint_Count 113 
+
+Leader Index 0 
+
+Leader Contour 24.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[212.] 
+
+Mean Previous Drone Positions [0.]_[212.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[212.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[214.] 
+
+drones next lat [48.33776115] drones next lon [14.32661865] 
+WayPoint_Count 114 
+
+Leader Index 0 
+
+Leader Contour 13.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[214.] 
+
+Mean Previous Drone Positions [0.]_[214.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[214.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[216.] 
+
+drones next lat [48.33777915] drones next lon [14.32661841] 
+WayPoint_Count 115 
+
+Leader Index 0 
+
+Leader Contour 34.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[216.] 
+
+Mean Previous Drone Positions [0.]_[216.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[216.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[218.] 
+
+drones next lat [48.33779714] drones next lon [14.32661817] 
+WayPoint_Count 116 
+
+Leader Index 0 
+
+Leader Contour 32.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[218.] 
+
+Mean Previous Drone Positions [0.]_[218.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[218.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[220.] 
+
+drones next lat [48.33781513] drones next lon [14.32661794] 
+WayPoint_Count 117 
+
+Leader Index 0 
+
+Leader Contour 10.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[220.] 
+
+Mean Previous Drone Positions [0.]_[220.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[220.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[222.] 
+
+drones next lat [48.33783312] drones next lon [14.3266177] 
+WayPoint_Count 118 
+
+Leader Index 0 
+
+Leader Contour 3.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[222.] 
+
+Mean Previous Drone Positions [0.]_[222.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[222.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[224.] 
+
+drones next lat [48.33785111] drones next lon [14.32661746] 
+WayPoint_Count 119 
+
+Leader Index 0 
+
+Leader Contour 3.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[224.] 
+
+Mean Previous Drone Positions [0.]_[224.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[224.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[226.] 
+
+drones next lat [48.33786911] drones next lon [14.32661723] 
+WayPoint_Count 120 
+
+Leader Index 0 
+
+Leader Contour 12.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[226.] 
+
+Mean Previous Drone Positions [0.]_[226.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[226.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[228.] 
+
+drones next lat [48.3378871] drones next lon [14.32661699] 
+WayPoint_Count 121 
+
+Leader Index 0 
+
+Leader Contour 1.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[228.] 
+
+Mean Previous Drone Positions [0.]_[228.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[228.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[230.] 
+
+drones next lat [48.33790509] drones next lon [14.32661675] 
+WayPoint_Count 122 
+
+Leader Index 0 
+
+Leader Contour 12.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[230.] 
+
+Mean Previous Drone Positions [0.]_[230.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[230.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[232.] 
+
+drones next lat [48.33792308] drones next lon [14.32661651] 
+WayPoint_Count 123 
+
+Leader Index 0 
+
+Leader Contour 9.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[232.] 
+
+Mean Previous Drone Positions [0.]_[232.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[232.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[234.] 
+
+drones next lat [48.33794107] drones next lon [14.32661628] 
+WayPoint_Count 124 
+
+Leader Index 0 
+
+Leader Contour 10.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[234.] 
+
+Mean Previous Drone Positions [0.]_[234.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[234.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[236.] 
+
+drones next lat [48.33795907] drones next lon [14.32661604] 
+WayPoint_Count 125 
+
+Leader Index 0 
+
+Leader Contour 0.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[236.] 
+
+Mean Previous Drone Positions [0.]_[236.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[236.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[238.] 
+
+drones next lat [48.33797706] drones next lon [14.3266158] 
+WayPoint_Count 126 
+
+Leader Index 0 
+
+Leader Contour 24.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[238.] 
+
+Mean Previous Drone Positions [0.]_[238.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[238.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[240.] 
+
+drones next lat [48.33799505] drones next lon [14.32661557] 
+WayPoint_Count 127 
+
+Leader Index 0 
+
+Leader Contour 2.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[240.] 
+
+Mean Previous Drone Positions [0.]_[240.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[240.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[242.] 
+
+drones next lat [48.33801304] drones next lon [14.32661533] 
+WayPoint_Count 128 
+
+Leader Index 0 
+
+Leader Contour 2 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[242.] 
+
+Mean Previous Drone Positions [0.]_[242.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[242.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[244.] 
+
+drones next lat [48.33803103] drones next lon [14.32661509] 
+WayPoint_Count 129 
+
+Leader Index 0 
+
+Leader Contour 9.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[244.] 
+
+Mean Previous Drone Positions [0.]_[244.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[244.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[246.] 
+
+drones next lat [48.33804903] drones next lon [14.32661486] 
+WayPoint_Count 130 
+
+Leader Index 0 
+
+Leader Contour 4.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[246.] 
+
+Mean Previous Drone Positions [0.]_[246.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[246.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[248.] 
+
+drones next lat [48.33806702] drones next lon [14.32661462] 
+WayPoint_Count 131 
+
+Leader Index 0 
+
+Leader Contour 28.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[248.] 
+
+Mean Previous Drone Positions [0.]_[248.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[248.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[250.] 
+
+drones next lat [48.33808501] drones next lon [14.32661438] 
+WayPoint_Count 132 
+
+Leader Index 0 
+
+Leader Contour 14.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[250.] 
+
+Mean Previous Drone Positions [0.]_[250.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[250.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[252.] 
+
+drones next lat [48.338103] drones next lon [14.32661415] 
+WayPoint_Count 133 
+
+Leader Index 0 
+
+Leader Contour 2 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[252.] 
+
+Mean Previous Drone Positions [0.]_[252.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[252.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[254.] 
+
+drones next lat [48.338121] drones next lon [14.32661391] 
+WayPoint_Count 134 
+
+Leader Index 0 
+
+Leader Contour 10.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[254.] 
+
+Mean Previous Drone Positions [0.]_[254.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[254.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[256.] 
+
+drones next lat [48.33813899] drones next lon [14.32661367] 
+WayPoint_Count 135 
+
+Leader Index 0 
+
+Leader Contour 22.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[256.] 
+
+Mean Previous Drone Positions [0.]_[256.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[256.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[258.] 
+
+drones next lat [48.33815698] drones next lon [14.32661343] 
+WayPoint_Count 136 
+
+Leader Index 0 
+
+Leader Contour 2 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[258.] 
+
+Mean Previous Drone Positions [0.]_[258.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[258.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[260.] 
+
+drones next lat [48.33817497] drones next lon [14.3266132] 
+WayPoint_Count 137 
+
+Leader Index 0 
+
+Leader Contour 2 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[260.] 
+
+Mean Previous Drone Positions [0.]_[260.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[260.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[262.] 
+
+drones next lat [48.33819296] drones next lon [14.32661296] 
+WayPoint_Count 138 
+
+Leader Index 0 
+
+Leader Contour 13.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[262.] 
+
+Mean Previous Drone Positions [0.]_[262.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[262.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[264.] 
+
+drones next lat [48.33821096] drones next lon [14.32661272] 
+WayPoint_Count 139 
+
+Leader Index 0 
+
+Leader Contour 14.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[264.] 
+
+Mean Previous Drone Positions [0.]_[264.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[264.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[266.] 
+
+drones next lat [48.33822895] drones next lon [14.32661249] 
+WayPoint_Count 140 
+
+Leader Index 0 
+
+Leader Contour 8.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[266.] 
+
+Mean Previous Drone Positions [0.]_[266.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[266.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[268.] 
+
+drones next lat [48.33824694] drones next lon [14.32661225] 
+WayPoint_Count 141 
+
+Leader Index 0 
+
+Leader Contour 14.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[268.] 
+
+Mean Previous Drone Positions [0.]_[268.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[268.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[270.] 
+
+drones next lat [48.33826493] drones next lon [14.32661201] 
+WayPoint_Count 142 
+
+Leader Index 0 
+
+Leader Contour 6.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[270.] 
+
+Mean Previous Drone Positions [0.]_[270.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[270.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[272.] 
+
+drones next lat [48.33828292] drones next lon [14.32661178] 
+WayPoint_Count 143 
+
+Leader Index 0 
+
+Leader Contour 2.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[272.] 
+
+Mean Previous Drone Positions [0.]_[272.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[272.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[274.] 
+
+drones next lat [48.33830092] drones next lon [14.32661154] 
+WayPoint_Count 144 
+
+Leader Index 0 
+
+Leader Contour 6.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[274.] 
+
+Mean Previous Drone Positions [0.]_[274.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[274.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[276.] 
+
+drones next lat [48.33831891] drones next lon [14.3266113] 
+WayPoint_Count 145 
+
+Leader Index 0 
+
+Leader Contour 15.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[276.] 
+
+Mean Previous Drone Positions [0.]_[276.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[276.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[278.] 
+
+drones next lat [48.3383369] drones next lon [14.32661106] 
+WayPoint_Count 146 
+
+Leader Index 0 
+
+Leader Contour 15.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[278.] 
+
+Mean Previous Drone Positions [0.]_[278.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[278.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[280.] 
+
+drones next lat [48.33835489] drones next lon [14.32661083] 
+WayPoint_Count 147 
+
+Leader Index 0 
+
+Leader Contour 2.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[280.] 
+
+Mean Previous Drone Positions [0.]_[280.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[280.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[282.] 
+
+drones next lat [48.33837288] drones next lon [14.32661059] 
+WayPoint_Count 148 
+
+Leader Index 0 
+
+Leader Contour 1.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[282.] 
+
+Mean Previous Drone Positions [0.]_[282.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[282.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[284.] 
+
+drones next lat [48.33839088] drones next lon [14.32661035] 
+WayPoint_Count 149 
+
+Leader Index 0 
+
+Leader Contour 9.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[284.] 
+
+Mean Previous Drone Positions [0.]_[284.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[284.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[286.] 
+
+drones next lat [48.33840887] drones next lon [14.32661012] 
+WayPoint_Count 150 
+
+Leader Index 0 
+
+Leader Contour 22.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[286.] 
+
+Mean Previous Drone Positions [0.]_[286.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[286.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[288.] 
+
+drones next lat [48.33842686] drones next lon [14.32660988] 
+WayPoint_Count 151 
+
+Leader Index 0 
+
+Leader Contour 21.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[288.] 
+
+Mean Previous Drone Positions [0.]_[288.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[288.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[290.] 
+
+drones next lat [48.33844485] drones next lon [14.32660964] 
+WayPoint_Count 152 
+
+Leader Index 0 
+
+Leader Contour 12.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[290.] 
+
+Mean Previous Drone Positions [0.]_[290.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[290.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[292.] 
+
+drones next lat [48.33846284] drones next lon [14.32660941] 
+WayPoint_Count 153 
+
+Leader Index 0 
+
+Leader Contour 4.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[292.] 
+
+Mean Previous Drone Positions [0.]_[292.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[292.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[294.] 
+
+drones next lat [48.33848084] drones next lon [14.32660917] 
+WayPoint_Count 154 
+
+Leader Index 0 
+
+Leader Contour 36.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[294.] 
+
+Mean Previous Drone Positions [0.]_[294.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[294.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[296.] 
+
+drones next lat [48.33849883] drones next lon [14.32660893] 
+WayPoint_Count 155 
+
+Leader Index 0 
+
+Leader Contour 28.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[296.] 
+
+Mean Previous Drone Positions [0.]_[296.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[296.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[298.] 
+
+drones next lat [48.33851682] drones next lon [14.3266087] 
+WayPoint_Count 156 
+
+Leader Index 0 
+
+Leader Contour 20.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[298.] 
+
+Mean Previous Drone Positions [0.]_[298.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[298.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[300.] 
+
+drones next lat [48.33853481] drones next lon [14.32660846] 
+WayPoint_Count 157 
+
+Leader Index 0 
+
+Leader Contour 20.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[300.] 
+
+Mean Previous Drone Positions [0.]_[300.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[300.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[302.] 
+
+drones next lat [48.3385528] drones next lon [14.32660822] 
+WayPoint_Count 158 
+
+Leader Index 0 
+
+Leader Contour 13.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[302.] 
+
+Mean Previous Drone Positions [0.]_[302.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[302.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[304.] 
+
+drones next lat [48.3385708] drones next lon [14.32660798] 
+WayPoint_Count 159 
+
+Leader Index 0 
+
+Leader Contour 2 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[304.] 
+
+Mean Previous Drone Positions [0.]_[304.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[304.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[306.] 
+
+drones next lat [48.33858879] drones next lon [14.32660775] 
+WayPoint_Count 160 
+
+Leader Index 0 
+
+Leader Contour 2 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[306.] 
+
+Mean Previous Drone Positions [0.]_[306.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[306.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[308.] 
+
+drones next lat [48.33860678] drones next lon [14.32660751] 
+WayPoint_Count 161 
+
+Leader Index 0 
+
+Leader Contour 2 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[308.] 
+
+Mean Previous Drone Positions [0.]_[308.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[308.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[310.] 
+
+drones next lat [48.33862477] drones next lon [14.32660727] 
+WayPoint_Count 162 
+
+Leader Index 0 
+
+Leader Contour 1.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[310.] 
+
+Mean Previous Drone Positions [0.]_[310.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[310.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[312.] 
+
+drones next lat [48.33864276] drones next lon [14.32660704] 
+WayPoint_Count 163 
+
+Leader Index 0 
+
+Leader Contour 2 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[312.] 
+
+Mean Previous Drone Positions [0.]_[312.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[312.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[314.] 
+
+drones next lat [48.33866076] drones next lon [14.3266068] 
+WayPoint_Count 164 
+
+Leader Index 0 
+
+Leader Contour 22.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[314.] 
+
+Mean Previous Drone Positions [0.]_[314.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[314.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[316.] 
+
+drones next lat [48.33867875] drones next lon [14.32660656] 
+WayPoint_Count 165 
+
+Leader Index 0 
+
+Leader Contour 15.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[316.] 
+
+Mean Previous Drone Positions [0.]_[316.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[316.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[318.] 
+
+drones next lat [48.33869674] drones next lon [14.32660633] 
+WayPoint_Count 166 
+
+Leader Index 0 
+
+Leader Contour 16.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[318.] 
+
+Mean Previous Drone Positions [0.]_[318.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[318.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[320.] 
+
+drones next lat [48.33871473] drones next lon [14.32660609] 
+WayPoint_Count 167 
+
+Leader Index 0 
+
+Leader Contour 19.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[320.] 
+
+Mean Previous Drone Positions [0.]_[320.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[320.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[322.] 
+
+drones next lat [48.33873273] drones next lon [14.32660585] 
+WayPoint_Count 168 
+
+Leader Index 0 
+
+Leader Contour 9.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[322.] 
+
+Mean Previous Drone Positions [0.]_[322.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[322.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[324.] 
+
+drones next lat [48.33875072] drones next lon [14.32660561] 
+WayPoint_Count 169 
+
+Leader Index 0 
+
+Leader Contour 1.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[324.] 
+
+Mean Previous Drone Positions [0.]_[324.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[324.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[326.] 
+
+drones next lat [48.33876871] drones next lon [14.32660538] 
+WayPoint_Count 170 
+
+Leader Index 0 
+
+Leader Contour 10.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[326.] 
+
+Mean Previous Drone Positions [0.]_[326.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[326.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[328.] 
+
+drones next lat [48.3387867] drones next lon [14.32660514] 
+WayPoint_Count 171 
+
+Leader Index 0 
+
+Leader Contour 2 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[328.] 
+
+Mean Previous Drone Positions [0.]_[328.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[328.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[330.] 
+
+drones next lat [48.33880469] drones next lon [14.3266049] 
+WayPoint_Count 172 
+
+Leader Index 0 
+
+Leader Contour 36.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[330.] 
+
+Mean Previous Drone Positions [0.]_[330.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[330.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[332.] 
+
+drones next lat [48.33882269] drones next lon [14.32660467] 
+WayPoint_Count 173 
+
+Leader Index 0 
+
+Leader Contour 2 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[332.] 
+
+Mean Previous Drone Positions [0.]_[332.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[332.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[334.] 
+
+drones next lat [48.33884068] drones next lon [14.32660443] 
+WayPoint_Count 174 
+
+Leader Index 0 
+
+Leader Contour 21.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[334.] 
+
+Mean Previous Drone Positions [0.]_[334.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[334.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[336.] 
+
+drones next lat [48.33885867] drones next lon [14.32660419] 
+WayPoint_Count 175 
+
+Leader Index 0 
+
+Leader Contour 22.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[336.] 
+
+Mean Previous Drone Positions [0.]_[336.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[336.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[338.] 
+
+drones next lat [48.33887666] drones next lon [14.32660396] 
+WayPoint_Count 176 
+
+Leader Index 0 
+
+Leader Contour 19.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[338.] 
+
+Mean Previous Drone Positions [0.]_[338.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[338.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[340.] 
+
+drones next lat [48.33889465] drones next lon [14.32660372] 
+WayPoint_Count 177 
+
+Leader Index 0 
+
+Leader Contour 6.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[340.] 
+
+Mean Previous Drone Positions [0.]_[340.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[340.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[342.] 
+
+drones next lat [48.33891265] drones next lon [14.32660348] 
+WayPoint_Count 178 
+
+Leader Index 0 
+
+Leader Contour 2 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[342.] 
+
+Mean Previous Drone Positions [0.]_[342.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[342.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[344.] 
+
+drones next lat [48.33893064] drones next lon [14.32660324] 
+WayPoint_Count 179 
+
+Leader Index 0 
+
+Leader Contour 2 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[344.] 
+
+Mean Previous Drone Positions [0.]_[344.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[344.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[346.] 
+
+drones next lat [48.33894863] drones next lon [14.32660301] 
+WayPoint_Count 180 
+
+Leader Index 0 
+
+Leader Contour 0.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[346.] 
+
+Mean Previous Drone Positions [0.]_[346.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[346.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[348.] 
+
+drones next lat [48.33896662] drones next lon [14.32660277] 
+WayPoint_Count 181 
+
+Leader Index 0 
+
+Leader Contour 2 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[348.] 
+
+Mean Previous Drone Positions [0.]_[348.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[348.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[350.] 
+
+drones next lat [48.33898461] drones next lon [14.32660253] 
+WayPoint_Count 182 
+
+Leader Index 0 
+
+Leader Contour 2 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[350.] 
+
+Mean Previous Drone Positions [0.]_[350.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[350.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[352.] 
+
+drones next lat [48.33900261] drones next lon [14.3266023] 
+WayPoint_Count 183 
+
+Leader Index 0 
+
+Leader Contour 1.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[352.] 
+
+Mean Previous Drone Positions [0.]_[352.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[352.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[354.] 
+
+drones next lat [48.3390206] drones next lon [14.32660206] 
+WayPoint_Count 184 
+
+Leader Index 0 
+
+Leader Contour 10.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[354.] 
+
+Mean Previous Drone Positions [0.]_[354.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[354.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[356.] 
+
+drones next lat [48.33903859] drones next lon [14.32660182] 
+WayPoint_Count 185 
+
+Leader Index 0 
+
+Leader Contour 2.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[356.] 
+
+Mean Previous Drone Positions [0.]_[356.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[356.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[358.] 
+
+drones next lat [48.33905658] drones next lon [14.32660159] 
+WayPoint_Count 186 
+
+Leader Index 0 
+
+Leader Contour 20.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[358.] 
+
+Mean Previous Drone Positions [0.]_[358.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[358.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[360.] 
+
+drones next lat [48.33907457] drones next lon [14.32660135] 
+WayPoint_Count 187 
+
+Leader Index 0 
+
+Leader Contour 9.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[360.] 
+
+Mean Previous Drone Positions [0.]_[360.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[360.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[362.] 
+
+drones next lat [48.33909257] drones next lon [14.32660111] 
+WayPoint_Count 188 
+
+Leader Index 0 
+
+Leader Contour 9.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[362.] 
+
+Mean Previous Drone Positions [0.]_[362.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[362.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[364.] 
+
+drones next lat [48.33911056] drones next lon [14.32660088] 
+WayPoint_Count 189 
+
+Leader Index 0 
+
+Leader Contour 21.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[364.] 
+
+Mean Previous Drone Positions [0.]_[364.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[364.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[366.] 
+
+drones next lat [48.33912855] drones next lon [14.32660064] 
+WayPoint_Count 190 
+
+Leader Index 0 
+
+Leader Contour 2 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[366.] 
+
+Mean Previous Drone Positions [0.]_[366.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[366.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[368.] 
+
+drones next lat [48.33914654] drones next lon [14.3266004] 
+WayPoint_Count 191 
+
+Leader Index 0 
+
+Leader Contour 10.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[368.] 
+
+Mean Previous Drone Positions [0.]_[368.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[368.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[370.] 
+
+drones next lat [48.33916453] drones next lon [14.32660016] 
+WayPoint_Count 192 
+
+Leader Index 0 
+
+Leader Contour 23.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[370.] 
+
+Mean Previous Drone Positions [0.]_[370.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[370.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[372.] 
+
+drones next lat [48.33918253] drones next lon [14.32659993] 
+WayPoint_Count 193 
+
+Leader Index 0 
+
+Leader Contour 9.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[372.] 
+
+Mean Previous Drone Positions [0.]_[372.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[372.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[374.] 
+
+drones next lat [48.33920052] drones next lon [14.32659969] 
+WayPoint_Count 194 
+
+Leader Index 0 
+
+Leader Contour 5.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[374.] 
+
+Mean Previous Drone Positions [0.]_[374.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[374.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[376.] 
+
+drones next lat [48.33921851] drones next lon [14.32659945] 
+WayPoint_Count 195 
+
+Leader Index 0 
+
+Leader Contour 24.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[376.] 
+
+Mean Previous Drone Positions [0.]_[376.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[376.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[378.] 
+
+drones next lat [48.3392365] drones next lon [14.32659922] 
+WayPoint_Count 196 
+
+Leader Index 0 
+
+Leader Contour 2 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[378.] 
+
+Mean Previous Drone Positions [0.]_[378.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[378.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[380.] 
+
+drones next lat [48.3392545] drones next lon [14.32659898] 
+WayPoint_Count 197 
+
+Leader Index 0 
+
+Leader Contour 25.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[380.] 
+
+Mean Previous Drone Positions [0.]_[380.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[380.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[382.] 
+
+drones next lat [48.33927249] drones next lon [14.32659874] 
+WayPoint_Count 198 
+
+Leader Index 0 
+
+Leader Contour 1.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[382.] 
+
+Mean Previous Drone Positions [0.]_[382.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[382.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[384.] 
+
+drones next lat [48.33929048] drones next lon [14.32659851] 
+WayPoint_Count 199 
+
+Leader Index 0 
+
+Leader Contour 2 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[384.] 
+
+Mean Previous Drone Positions [0.]_[384.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[384.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[386.] 
+
+drones next lat [48.33930847] drones next lon [14.32659827] 
+WayPoint_Count 200 
+
+Leader Index 0 
+
+Leader Contour 9.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[386.] 
+
+Mean Previous Drone Positions [0.]_[386.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[386.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[388.] 
+
+drones next lat [48.33932646] drones next lon [14.32659803] 
+WayPoint_Count 201 
+
+Leader Index 0 
+
+Leader Contour 14.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[388.] 
+
+Mean Previous Drone Positions [0.]_[388.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[388.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[390.] 
+
+drones next lat [48.33934446] drones next lon [14.32659779] 
+WayPoint_Count 202 
+
+Leader Index 0 
+
+Leader Contour 7.5 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[390.] 
+
+Mean Previous Drone Positions [0.]_[390.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[390.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[392.] 
+
+drones next lat [48.33936245] drones next lon [14.32659756] 
+WayPoint_Count 203 
+
+Leader Index 0 
+
+Leader Contour 12.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[392.] 
+
+Mean Previous Drone Positions [0.]_[392.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[392.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[394.] 
+
+drones next lat [48.33938044] drones next lon [14.32659732] 
+WayPoint_Count 204 
+
+Leader Index 0 
+
+Leader Contour 31.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[394.] 
+
+Mean Previous Drone Positions [0.]_[394.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[394.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[396.] 
+
+drones next lat [48.33939843] drones next lon [14.32659708] 
+WayPoint_Count 205 
+
+Leader Index 0 
+
+Leader Contour 6.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[396.] 
+
+Mean Previous Drone Positions [0.]_[396.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[396.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[398.] 
+
+drones next lat [48.33941642] drones next lon [14.32659685] 
+WayPoint_Count 206 
+
+Leader Index 0 
+
+Leader Contour 9.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[398.] 
+
+Mean Previous Drone Positions [0.]_[398.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[398.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[400.] 
+
+drones next lat [48.33943442] drones next lon [14.32659661] 
+WayPoint_Count 207 
+
+Leader Index 0 
+
+Leader Contour 7.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[400.] 
+
+Mean Previous Drone Positions [0.]_[400.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[400.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[402.] 
+
+drones next lat [48.33945241] drones next lon [14.32659637] 
+WayPoint_Count 208 
+
+Leader Index 0 
+
+Leader Contour 9.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[402.] 
+
+Mean Previous Drone Positions [0.]_[402.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[402.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[404.] 
+
+drones next lat [48.3394704] drones next lon [14.32659614] 
+WayPoint_Count 209 
+
+Leader Index 0 
+
+Leader Contour 3.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[404.] 
+
+Mean Previous Drone Positions [0.]_[404.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[404.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[406.] 
+
+drones next lat [48.33948839] drones next lon [14.3265959] 
+WayPoint_Count 210 
+
+Leader Index 0 
+
+Leader Contour 16.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[406.] 
+
+Mean Previous Drone Positions [0.]_[406.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[406.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[408.] 
+
+drones next lat [48.33950638] drones next lon [14.32659566] 
+WayPoint_Count 211 
+
+Leader Index 0 
+
+Leader Contour 11.0 
+
+Contour Threshold 20 
+
+Previous Drone Positions [0.]_[408.] 
+
+Mean Previous Drone Positions [0.]_[408.] 
+
+relative Drone Positions [-0.]_[0.] 
+
+current starting Drone Positions [0.]_[408.] 
+
+scanning direction vector [0.]_[2.] 
+
+changing back speed 3.0 
+
+velocity vector [0.]_[2.] 
+
+Moving Straight [0.]_[410.] 
+
+drones next lat [48.33952438] drones next lon [14.32659542] 
